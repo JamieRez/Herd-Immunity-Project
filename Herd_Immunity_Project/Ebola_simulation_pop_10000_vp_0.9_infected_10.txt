@@ -1,0 +1,3572 @@
+10000	 0.9	 Ebola	 0.7	 0.25
+Next Time Step Initiating...
+Time Step #1 has started
+person#0 has infected person#973
+person#0 has infected person#3731
+person#0 has infected person#8907
+person#0 has infected person#4583
+Person#0 has Survived the disease
+person#1 has infected person#4999
+Person#1 has Survived the disease
+person#2 has infected person#9978
+Person#2 has Survived the disease
+person#3 has infected person#5929
+person#3 has infected person#7439
+person#3 has infected person#1196
+Person#3 has Survived the disease
+Person#4 has died
+person#5 has infected person#2918
+Person#5 has Survived the disease
+person#6 has infected person#6265
+person#6 has infected person#5446
+person#6 has infected person#9189
+Person#6 has died
+person#7 has infected person#8113
+person#7 has infected person#2497
+Person#7 has died
+person#8 has infected person#1956
+Person#8 has died
+person#9 has infected person#1064
+person#9 has infected person#1483
+person#9 has infected person#9317
+person#9 has infected person#4273
+Person#9 has died
+person#973 has infected person#5018
+Person#973 has Survived the disease
+Person#1064 has died
+person#1196 has infected person#366
+person#1196 has infected person#1591
+Person#1196 has Survived the disease
+Person#1483 has died
+Person#1591 has died
+person#1956 has infected person#7472
+person#1956 has infected person#3728
+Person#1956 has died
+person#2497 has infected person#7731
+Person#2497 has died
+person#2918 has infected person#379
+Person#2918 has Survived the disease
+person#3728 has infected person#2500
+person#3728 has infected person#2975
+person#3728 has infected person#3129
+Person#3728 has died
+person#3731 has infected person#264
+person#3731 has infected person#2061
+Person#3731 has died
+person#4273 has infected person#4306
+person#4273 has infected person#8901
+person#4273 has infected person#4561
+Person#4273 has Survived the disease
+person#4306 has infected person#5105
+person#4306 has infected person#211
+Person#4306 has Survived the disease
+person#4561 has infected person#2961
+person#4561 has infected person#6500
+Person#4561 has died
+person#4583 has infected person#2109
+person#4583 has infected person#6492
+Person#4583 has Survived the disease
+person#4999 has infected person#8186
+person#4999 has infected person#9127
+person#4999 has infected person#8312
+person#4999 has infected person#8494
+person#4999 has infected person#2316
+Person#4999 has Survived the disease
+person#5018 has infected person#5248
+person#5018 has infected person#682
+person#5018 has infected person#8810
+person#5018 has infected person#2554
+Person#5018 has died
+person#5105 has infected person#1825
+person#5105 has infected person#8283
+person#5105 has infected person#7190
+Person#5105 has died
+person#5248 has infected person#6590
+person#5248 has infected person#6535
+person#5248 has infected person#7704
+person#5248 has infected person#1070
+Person#5248 has died
+person#5446 has infected person#4968
+person#5446 has infected person#7289
+person#5446 has infected person#9370
+person#5446 has infected person#2734
+Person#5446 has died
+person#5929 has infected person#7250
+Person#5929 has died
+person#6265 has infected person#8036
+Person#6265 has died
+person#6492 has infected person#9984
+person#6492 has infected person#277
+Person#6492 has died
+person#6500 has infected person#3725
+Person#6500 has died
+person#6535 has infected person#6108
+person#6535 has infected person#7807
+person#6535 has infected person#1844
+Person#6535 has died
+person#6590 has infected person#7850
+person#6590 has infected person#4791
+person#6590 has infected person#7073
+Person#6590 has Survived the disease
+person#7073 has infected person#265
+person#7073 has infected person#7392
+person#7073 has infected person#4080
+Person#7073 has died
+person#7190 has infected person#8083
+person#7190 has infected person#9220
+person#7190 has infected person#7843
+Person#7190 has Survived the disease
+person#7250 has infected person#453
+Person#7250 has Survived the disease
+person#7289 has infected person#4137
+person#7289 has infected person#6440
+Person#7289 has Survived the disease
+person#7392 has infected person#6110
+Person#7392 has Survived the disease
+Person#7439 has died
+person#7472 has infected person#8347
+person#7472 has infected person#8085
+Person#7472 has Survived the disease
+person#7704 has infected person#4900
+person#7704 has infected person#9640
+person#7704 has infected person#1357
+person#7704 has infected person#662
+person#7704 has infected person#5409
+person#7704 has infected person#8034
+person#7704 has infected person#8619
+Person#7704 has died
+person#7731 has infected person#9490
+person#7731 has infected person#6382
+Person#7731 has died
+person#7807 has infected person#7045
+person#7807 has infected person#5383
+person#7807 has infected person#1629
+Person#7807 has died
+person#7843 has infected person#5604
+person#7843 has infected person#7420
+person#7843 has infected person#4807
+person#7843 has infected person#1746
+Person#7843 has Survived the disease
+Person#7850 has died
+person#8034 has infected person#5786
+person#8034 has infected person#4130
+Person#8034 has Survived the disease
+person#8036 has infected person#5320
+person#8036 has infected person#4201
+person#8036 has infected person#6703
+person#8036 has infected person#1946
+Person#8036 has Survived the disease
+person#8083 has infected person#2939
+person#8083 has infected person#7550
+person#8083 has infected person#124
+person#8083 has infected person#2581
+person#8083 has infected person#9933
+person#8083 has infected person#2921
+Person#8083 has died
+person#8085 has infected person#6087
+person#8085 has infected person#800
+Person#8085 has died
+person#8113 has infected person#6663
+person#8113 has infected person#4126
+Person#8113 has Survived the disease
+person#8186 has infected person#137
+person#8186 has infected person#4699
+Person#8186 has died
+person#8283 has infected person#7465
+person#8283 has infected person#3487
+person#8283 has infected person#5829
+person#8283 has infected person#755
+Person#8283 has died
+person#8312 has infected person#4823
+Person#8312 has died
+Person#8347 has died
+person#8494 has infected person#6160
+Person#8494 has died
+person#8619 has infected person#2956
+person#8619 has infected person#9349
+person#8619 has infected person#2594
+Person#8619 has Survived the disease
+person#8810 has infected person#8591
+Person#8810 has Survived the disease
+person#8901 has infected person#3314
+Person#8901 has Survived the disease
+person#8907 has infected person#2069
+person#8907 has infected person#7471
+person#8907 has infected person#6208
+Person#8907 has died
+person#9127 has infected person#2826
+person#9127 has infected person#2357
+person#9127 has infected person#9355
+person#9127 has infected person#2140
+Person#9127 has died
+person#9189 has infected person#5855
+Person#9189 has died
+person#9220 has infected person#2135
+person#9220 has infected person#6755
+person#9220 has infected person#530
+Person#9220 has died
+person#9317 has infected person#8011
+Person#9317 has died
+person#9349 has infected person#2439
+person#9349 has infected person#310
+Person#9349 has Survived the disease
+person#9355 has infected person#1834
+Person#9355 has died
+person#9370 has infected person#7033
+Person#9370 has died
+person#9490 has infected person#807
+person#9490 has infected person#2958
+person#9490 has infected person#1013
+Person#9490 has died
+person#9640 has infected person#887
+person#9640 has infected person#5685
+person#9640 has infected person#1296
+Person#9640 has Survived the disease
+person#9933 has infected person#8422
+person#9933 has infected person#8432
+Person#9933 has died
+person#9978 has infected person#4139
+person#9978 has infected person#3474
+person#9978 has infected person#34
+Person#9978 has died
+Person#9984 has died
+Time Step #1 has ended.
+Next Time Step Initiating...
+Time Step #2 has started
+person#4 has infected person#9269
+person#4 has infected person#1222
+person#4 has infected person#2900
+Person#4 has Survived the disease
+person#6 has infected person#4587
+person#6 has infected person#3938
+person#6 has infected person#1079
+person#6 has infected person#5942
+person#6 has infected person#7218
+Person#6 has died
+person#7 has infected person#5774
+person#7 has infected person#6374
+Person#7 has died
+person#8 has infected person#173
+person#8 has infected person#4628
+person#8 has infected person#9023
+Person#8 has died
+person#9 has infected person#8081
+person#9 has infected person#4174
+person#9 has infected person#1437
+person#9 has infected person#6475
+Person#9 has died
+Person#34 has died
+person#124 has infected person#8246
+Person#124 has died
+Person#137 has died
+person#173 has infected person#7318
+person#173 has infected person#796
+Person#173 has died
+person#211 has infected person#3844
+Person#211 has died
+person#264 has infected person#6495
+person#264 has infected person#2502
+person#264 has infected person#8328
+person#264 has infected person#6635
+person#264 has infected person#6383
+person#264 has infected person#7801
+Person#264 has died
+person#265 has infected person#1574
+person#265 has infected person#6651
+person#265 has infected person#5486
+Person#265 has died
+person#277 has infected person#5416
+Person#277 has died
+person#310 has infected person#7299
+Person#310 has died
+person#366 has infected person#3830
+person#366 has infected person#3595
+person#366 has infected person#5164
+person#366 has infected person#764
+Person#366 has Survived the disease
+person#379 has infected person#6781
+person#379 has infected person#687
+Person#379 has died
+person#453 has infected person#8892
+person#453 has infected person#8427
+Person#453 has died
+person#530 has infected person#1833
+Person#530 has Survived the disease
+person#662 has infected person#5515
+person#662 has infected person#3721
+person#662 has infected person#8563
+Person#662 has Survived the disease
+person#682 has infected person#5625
+person#682 has infected person#7515
+Person#682 has died
+person#687 has infected person#9102
+person#687 has infected person#208
+person#687 has infected person#779
+Person#687 has died
+Person#755 has died
+Person#764 has died
+person#779 has infected person#9460
+person#779 has infected person#7176
+person#779 has infected person#2935
+person#779 has infected person#8787
+person#779 has infected person#9444
+Person#779 has Survived the disease
+person#796 has infected person#9455
+person#796 has infected person#2015
+Person#796 has died
+Person#800 has Survived the disease
+person#807 has infected person#4113
+person#807 has infected person#7566
+person#807 has infected person#9257
+person#807 has infected person#5071
+person#807 has infected person#3003
+Person#807 has died
+person#887 has infected person#2782
+person#887 has infected person#1465
+person#887 has infected person#9279
+person#887 has infected person#8126
+person#887 has infected person#6509
+Person#887 has died
+person#1013 has infected person#2079
+person#1013 has infected person#4927
+Person#1013 has died
+person#1064 has infected person#2755
+person#1064 has infected person#337
+person#1064 has infected person#43
+person#1064 has infected person#7301
+Person#1064 has died
+person#1070 has infected person#6407
+person#1070 has infected person#7660
+person#1070 has infected person#1428
+person#1070 has infected person#6513
+person#1070 has infected person#485
+Person#1070 has died
+Person#1079 has died
+person#1222 has infected person#5025
+Person#1222 has died
+Person#1296 has died
+person#1357 has infected person#3745
+person#1357 has infected person#5406
+person#1357 has infected person#1821
+Person#1357 has died
+person#1428 has infected person#7599
+person#1428 has infected person#9218
+Person#1428 has Survived the disease
+person#1437 has infected person#7812
+person#1437 has infected person#6929
+person#1437 has infected person#6094
+person#1437 has infected person#8951
+Person#1437 has died
+person#1465 has infected person#3418
+person#1465 has infected person#9889
+person#1465 has infected person#761
+Person#1465 has Survived the disease
+person#1483 has infected person#9499
+person#1483 has infected person#3245
+person#1483 has infected person#6290
+Person#1483 has died
+Person#1574 has died
+person#1591 has infected person#5740
+person#1591 has infected person#6647
+person#1591 has infected person#6736
+person#1591 has infected person#3598
+Person#1591 has died
+person#1629 has infected person#4713
+person#1629 has infected person#3093
+person#1629 has infected person#9180
+Person#1629 has died
+person#1746 has infected person#979
+Person#1746 has died
+Person#1821 has Survived the disease
+Person#1825 has Survived the disease
+person#1833 has infected person#8844
+person#1833 has infected person#4811
+Person#1833 has died
+person#1834 has infected person#4923
+Person#1834 has died
+person#1844 has infected person#3803
+person#1844 has infected person#6564
+person#1844 has infected person#70
+person#1844 has infected person#9679
+Person#1844 has died
+person#1946 has infected person#6526
+person#1946 has infected person#203
+Person#1946 has Survived the disease
+person#1956 has infected person#1505
+Person#1956 has Survived the disease
+person#2015 has infected person#269
+person#2015 has infected person#2216
+Person#2015 has died
+person#2061 has infected person#6118
+Person#2061 has Survived the disease
+person#2069 has infected person#2183
+person#2069 has infected person#2987
+Person#2069 has died
+person#2079 has infected person#2089
+Person#2079 has died
+Person#2089 has Survived the disease
+person#2109 has infected person#3659
+Person#2109 has died
+person#2135 has infected person#8986
+person#2135 has infected person#7265
+Person#2135 has died
+person#2140 has infected person#7762
+person#2140 has infected person#9871
+Person#2140 has died
+person#2183 has infected person#3428
+Person#2183 has died
+person#2216 has infected person#6369
+Person#2216 has died
+Person#2316 has died
+person#2357 has infected person#3500
+Person#2357 has died
+person#2439 has infected person#864
+person#2439 has infected person#451
+person#2439 has infected person#5957
+Person#2439 has Survived the disease
+person#2497 has infected person#5460
+person#2497 has infected person#81
+person#2497 has infected person#7031
+Person#2497 has died
+Person#2500 has died
+person#2502 has infected person#9866
+person#2502 has infected person#962
+Person#2502 has Survived the disease
+person#2554 has infected person#1953
+person#2554 has infected person#4690
+person#2554 has infected person#5523
+person#2554 has infected person#956
+Person#2554 has Survived the disease
+person#2581 has infected person#6622
+person#2581 has infected person#9047
+person#2581 has infected person#4471
+Person#2581 has died
+Person#2594 has Survived the disease
+Person#2734 has died
+person#2755 has infected person#3030
+Person#2755 has died
+person#2782 has infected person#2476
+person#2782 has infected person#7967
+person#2782 has infected person#9340
+Person#2782 has died
+Person#2826 has died
+person#2900 has infected person#7295
+person#2900 has infected person#3334
+person#2900 has infected person#6414
+Person#2900 has died
+person#2921 has infected person#609
+Person#2921 has died
+person#2935 has infected person#3908
+person#2935 has infected person#4792
+Person#2935 has died
+person#2939 has infected person#9493
+Person#2939 has Survived the disease
+person#2956 has infected person#813
+person#2956 has infected person#5236
+person#2956 has infected person#210
+person#2956 has infected person#734
+person#2956 has infected person#3609
+Person#2956 has died
+person#2958 has infected person#2285
+person#2958 has infected person#4855
+Person#2958 has died
+person#2961 has infected person#9660
+person#2961 has infected person#5955
+Person#2961 has died
+Person#2975 has died
+person#2987 has infected person#5864
+person#2987 has infected person#8659
+person#2987 has infected person#6951
+Person#2987 has died
+person#3003 has infected person#1754
+person#3003 has infected person#9988
+person#3003 has infected person#7924
+Person#3003 has Survived the disease
+person#3030 has infected person#96
+person#3030 has infected person#731
+Person#3030 has died
+person#3093 has infected person#7483
+person#3093 has infected person#8911
+Person#3093 has died
+person#3129 has infected person#2790
+Person#3129 has died
+person#3245 has infected person#2208
+person#3245 has infected person#2035
+person#3245 has infected person#775
+Person#3245 has died
+Person#3314 has died
+person#3334 has infected person#4096
+Person#3334 has Survived the disease
+person#3418 has infected person#5691
+Person#3418 has died
+Person#3428 has died
+person#3474 has infected person#3414
+person#3474 has infected person#2466
+Person#3474 has died
+person#3487 has infected person#5811
+Person#3487 has Survived the disease
+person#3500 has infected person#5563
+person#3500 has infected person#3078
+person#3500 has infected person#6125
+Person#3500 has Survived the disease
+person#3595 has infected person#8730
+person#3595 has infected person#4245
+person#3595 has infected person#3661
+person#3595 has infected person#1610
+person#3595 has infected person#5590
+Person#3595 has Survived the disease
+person#3598 has infected person#63
+person#3598 has infected person#577
+Person#3598 has died
+person#3609 has infected person#8338
+Person#3609 has Survived the disease
+Person#3659 has Survived the disease
+Person#3661 has Survived the disease
+person#3721 has infected person#7925
+Person#3721 has Survived the disease
+Person#3725 has died
+person#3728 has infected person#119
+person#3728 has infected person#3105
+Person#3728 has died
+person#3731 has infected person#9388
+Person#3731 has died
+person#3745 has infected person#253
+Person#3745 has Survived the disease
+person#3803 has infected person#7434
+person#3803 has infected person#3149
+Person#3803 has Survived the disease
+person#3830 has infected person#7804
+Person#3830 has died
+person#3844 has infected person#1480
+person#3844 has infected person#5630
+person#3844 has infected person#8143
+Person#3844 has died
+person#3908 has infected person#3090
+person#3908 has infected person#5979
+Person#3908 has died
+person#3938 has infected person#5008
+Person#3938 has died
+Person#4080 has died
+Person#4096 has died
+person#4113 has infected person#1790
+Person#4113 has died
+person#4126 has infected person#7841
+person#4126 has infected person#8253
+Person#4126 has Survived the disease
+person#4130 has infected person#6418
+person#4130 has infected person#912
+Person#4130 has Survived the disease
+person#4137 has infected person#4701
+person#4137 has infected person#2944
+person#4137 has infected person#9098
+person#4137 has infected person#8732
+Person#4137 has Survived the disease
+person#4139 has infected person#356
+person#4139 has infected person#4386
+Person#4139 has died
+person#4174 has infected person#3807
+person#4174 has infected person#5901
+person#4174 has infected person#7477
+Person#4174 has died
+Person#4201 has died
+Person#4245 has died
+Person#4386 has Survived the disease
+person#4471 has infected person#5279
+person#4471 has infected person#8666
+Person#4471 has Survived the disease
+Person#4561 has died
+person#4587 has infected person#6159
+Person#4587 has Survived the disease
+Person#4628 has died
+Person#4690 has died
+person#4699 has infected person#5455
+person#4699 has infected person#1842
+person#4699 has infected person#9162
+Person#4699 has died
+Person#4701 has died
+person#4713 has infected person#295
+person#4713 has infected person#787
+person#4713 has infected person#536
+Person#4713 has died
+Person#4791 has died
+person#4792 has infected person#6751
+person#4792 has infected person#2199
+person#4792 has infected person#8770
+Person#4792 has died
+Person#4807 has died
+person#4811 has infected person#3973
+Person#4811 has Survived the disease
+person#4823 has infected person#3380
+person#4823 has infected person#8382
+Person#4823 has died
+person#4855 has infected person#8044
+Person#4855 has died
+person#4900 has infected person#5905
+person#4900 has infected person#2524
+Person#4900 has Survived the disease
+person#4923 has infected person#7563
+Person#4923 has died
+person#4927 has infected person#8402
+Person#4927 has Survived the disease
+Person#4968 has died
+person#5008 has infected person#4617
+Person#5008 has died
+Person#5018 has died
+person#5025 has infected person#3550
+Person#5025 has died
+person#5071 has infected person#7614
+Person#5071 has died
+person#5105 has infected person#7699
+Person#5105 has Survived the disease
+Person#5164 has Survived the disease
+person#5236 has infected person#4480
+Person#5236 has died
+person#5248 has infected person#8068
+person#5248 has infected person#5990
+Person#5248 has Survived the disease
+Person#5279 has died
+person#5320 has infected person#9909
+person#5320 has infected person#735
+Person#5320 has died
+person#5383 has infected person#5414
+person#5383 has infected person#3736
+Person#5383 has died
+person#5406 has infected person#5937
+person#5406 has infected person#1511
+Person#5406 has died
+person#5409 has infected person#9121
+person#5409 has infected person#2281
+Person#5409 has Survived the disease
+person#5414 has infected person#1539
+Person#5414 has died
+person#5416 has infected person#8177
+Person#5416 has Survived the disease
+person#5446 has infected person#6269
+person#5446 has infected person#4148
+person#5446 has infected person#8112
+person#5446 has infected person#1693
+Person#5446 has Survived the disease
+person#5455 has infected person#7689
+Person#5455 has died
+person#5460 has infected person#3208
+Person#5460 has died
+person#5486 has infected person#672
+Person#5486 has died
+person#5515 has infected person#4759
+Person#5515 has died
+person#5523 has infected person#2837
+Person#5523 has died
+person#5563 has infected person#4084
+person#5563 has infected person#2250
+Person#5563 has died
+person#5590 has infected person#2249
+Person#5590 has died
+person#5604 has infected person#3618
+person#5604 has infected person#6581
+Person#5604 has died
+person#5625 has infected person#4446
+Person#5625 has Survived the disease
+person#5630 has infected person#9900
+person#5630 has infected person#7652
+person#5630 has infected person#6969
+Person#5630 has Survived the disease
+person#5685 has infected person#8640
+person#5685 has infected person#9027
+Person#5685 has died
+person#5691 has infected person#8042
+Person#5691 has Survived the disease
+person#5740 has infected person#4912
+Person#5740 has died
+person#5774 has infected person#6409
+person#5774 has infected person#2905
+person#5774 has infected person#4420
+Person#5774 has Survived the disease
+person#5786 has infected person#703
+person#5786 has infected person#1558
+person#5786 has infected person#2251
+Person#5786 has died
+Person#5811 has died
+person#5829 has infected person#6792
+person#5829 has infected person#3562
+Person#5829 has died
+person#5855 has infected person#8205
+Person#5855 has Survived the disease
+person#5864 has infected person#5329
+Person#5864 has Survived the disease
+person#5901 has infected person#225
+Person#5901 has died
+person#5905 has infected person#2043
+person#5905 has infected person#2022
+Person#5905 has Survived the disease
+person#5929 has infected person#5179
+person#5929 has infected person#9548
+Person#5929 has died
+person#5937 has infected person#7112
+Person#5937 has died
+person#5942 has infected person#9477
+person#5942 has infected person#2973
+person#5942 has infected person#5568
+Person#5942 has died
+person#5955 has infected person#2948
+person#5955 has infected person#2152
+Person#5955 has died
+person#5957 has infected person#9617
+Person#5957 has died
+person#5979 has infected person#6982
+person#5979 has infected person#2638
+Person#5979 has died
+person#5990 has infected person#2059
+Person#5990 has died
+person#6087 has infected person#6433
+Person#6087 has died
+person#6094 has infected person#8551
+person#6094 has infected person#1004
+person#6094 has infected person#8445
+person#6094 has infected person#400
+Person#6094 has Survived the disease
+person#6108 has infected person#711
+Person#6108 has Survived the disease
+person#6110 has infected person#9633
+Person#6110 has died
+person#6118 has infected person#5342
+person#6118 has infected person#2338
+person#6118 has infected person#2503
+person#6118 has infected person#5380
+Person#6118 has died
+person#6125 has infected person#1726
+Person#6125 has Survived the disease
+person#6159 has infected person#2907
+person#6159 has infected person#4169
+Person#6159 has Survived the disease
+person#6160 has infected person#2687
+Person#6160 has died
+person#6208 has infected person#9773
+Person#6208 has died
+person#6265 has infected person#4176
+person#6265 has infected person#4367
+Person#6265 has died
+person#6269 has infected person#6874
+Person#6269 has died
+person#6290 has infected person#8243
+person#6290 has infected person#5217
+person#6290 has infected person#722
+Person#6290 has died
+person#6369 has infected person#9335
+person#6369 has infected person#2808
+Person#6369 has died
+person#6374 has infected person#5511
+Person#6374 has died
+person#6382 has infected person#1819
+person#6382 has infected person#3365
+Person#6382 has died
+person#6383 has infected person#9571
+Person#6383 has died
+person#6407 has infected person#8029
+person#6407 has infected person#9267
+Person#6407 has Survived the disease
+person#6409 has infected person#6397
+person#6409 has infected person#6362
+Person#6409 has died
+Person#6414 has died
+Person#6418 has Survived the disease
+Person#6433 has Survived the disease
+person#6440 has infected person#1696
+Person#6440 has died
+person#6475 has infected person#6256
+person#6475 has infected person#8082
+Person#6475 has Survived the disease
+person#6492 has infected person#5891
+Person#6492 has Survived the disease
+Person#6495 has Survived the disease
+person#6500 has infected person#5496
+Person#6500 has Survived the disease
+person#6509 has infected person#2565
+person#6509 has infected person#8992
+Person#6509 has died
+person#6513 has infected person#2213
+Person#6513 has died
+person#6526 has infected person#1523
+Person#6526 has Survived the disease
+person#6535 has infected person#1945
+Person#6535 has died
+person#6564 has infected person#4808
+Person#6564 has Survived the disease
+person#6581 has infected person#7182
+person#6581 has infected person#7905
+person#6581 has infected person#1896
+Person#6581 has Survived the disease
+person#6622 has infected person#8154
+person#6622 has infected person#3569
+person#6622 has infected person#8356
+Person#6622 has died
+person#6635 has infected person#4091
+person#6635 has infected person#8320
+person#6635 has infected person#3671
+Person#6635 has died
+person#6647 has infected person#8828
+Person#6647 has died
+person#6651 has infected person#2334
+Person#6651 has Survived the disease
+person#6663 has infected person#894
+Person#6663 has died
+person#6703 has infected person#6765
+Person#6703 has died
+person#6736 has infected person#8179
+Person#6736 has died
+person#6751 has infected person#9830
+Person#6751 has died
+Person#6755 has died
+person#6765 has infected person#9512
+person#6765 has infected person#7416
+person#6765 has infected person#2320
+person#6765 has infected person#7178
+Person#6765 has Survived the disease
+person#6781 has infected person#9995
+Person#6781 has Survived the disease
+person#6792 has infected person#2976
+person#6792 has infected person#5465
+Person#6792 has died
+person#6874 has infected person#640
+person#6874 has infected person#1463
+Person#6874 has died
+person#6929 has infected person#9190
+person#6929 has infected person#5961
+Person#6929 has Survived the disease
+Person#6951 has died
+person#6969 has infected person#5412
+Person#6969 has died
+Person#6982 has died
+person#7031 has infected person#3785
+person#7031 has infected person#8946
+Person#7031 has died
+person#7033 has infected person#6211
+Person#7033 has died
+Person#7045 has died
+person#7073 has infected person#7047
+Person#7073 has died
+Person#7112 has Survived the disease
+person#7176 has infected person#9551
+Person#7176 has died
+person#7178 has infected person#8451
+person#7178 has infected person#9765
+person#7178 has infected person#7297
+Person#7178 has died
+Person#7182 has died
+person#7218 has infected person#5256
+person#7218 has infected person#4597
+Person#7218 has Survived the disease
+person#7265 has infected person#9912
+Person#7265 has Survived the disease
+person#7295 has infected person#7945
+Person#7295 has Survived the disease
+person#7297 has infected person#6604
+Person#7297 has died
+person#7299 has infected person#9494
+Person#7299 has died
+person#7301 has infected person#5861
+person#7301 has infected person#1131
+Person#7301 has died
+person#7318 has infected person#6814
+person#7318 has infected person#6659
+Person#7318 has Survived the disease
+person#7416 has infected person#4805
+Person#7416 has Survived the disease
+person#7420 has infected person#5282
+person#7420 has infected person#8842
+Person#7420 has Survived the disease
+Person#7434 has Survived the disease
+person#7439 has infected person#1668
+Person#7439 has died
+Person#7465 has died
+person#7471 has infected person#2270
+person#7471 has infected person#7255
+Person#7471 has died
+Person#7477 has died
+Person#7483 has died
+person#7515 has infected person#6555
+person#7515 has infected person#4214
+Person#7515 has died
+person#7550 has infected person#7877
+Person#7550 has died
+Person#7563 has died
+Person#7566 has died
+Person#7599 has died
+Person#7614 has Survived the disease
+Person#7652 has Survived the disease
+person#7660 has infected person#7932
+person#7660 has infected person#2979
+Person#7660 has died
+person#7689 has infected person#329
+Person#7689 has died
+Person#7699 has Survived the disease
+Person#7704 has died
+person#7731 has infected person#1117
+Person#7731 has died
+person#7762 has infected person#9895
+Person#7762 has died
+person#7801 has infected person#834
+Person#7801 has died
+person#7804 has infected person#9071
+person#7804 has infected person#9707
+Person#7804 has died
+Person#7807 has died
+person#7812 has infected person#2037
+person#7812 has infected person#742
+person#7812 has infected person#7495
+Person#7812 has died
+person#7841 has infected person#5707
+Person#7841 has Survived the disease
+person#7850 has infected person#9052
+person#7850 has infected person#5792
+Person#7850 has died
+person#7877 has infected person#4980
+Person#7877 has Survived the disease
+person#7905 has infected person#6847
+person#7905 has infected person#4821
+Person#7905 has Survived the disease
+Person#7924 has died
+Person#7925 has died
+person#7932 has infected person#8317
+Person#7932 has Survived the disease
+person#7945 has infected person#1008
+Person#7945 has died
+person#7967 has infected person#5068
+person#7967 has infected person#3452
+person#7967 has infected person#9532
+Person#7967 has died
+person#8011 has infected person#9519
+person#8011 has infected person#2963
+Person#8011 has Survived the disease
+person#8029 has infected person#6238
+person#8029 has infected person#8902
+Person#8029 has Survived the disease
+Person#8042 has died
+Person#8044 has died
+Person#8068 has died
+person#8081 has infected person#1948
+person#8081 has infected person#9677
+Person#8081 has died
+person#8082 has infected person#2724
+Person#8082 has died
+person#8083 has infected person#6707
+Person#8083 has died
+person#8085 has infected person#8706
+person#8085 has infected person#2522
+Person#8085 has died
+person#8112 has infected person#3128
+Person#8112 has died
+Person#8126 has died
+person#8143 has infected person#4202
+Person#8143 has died
+person#8154 has infected person#9183
+Person#8154 has died
+person#8177 has infected person#3100
+person#8177 has infected person#6424
+Person#8177 has Survived the disease
+person#8179 has infected person#4560
+person#8179 has infected person#2115
+Person#8179 has died
+person#8186 has infected person#4366
+Person#8186 has Survived the disease
+person#8205 has infected person#1881
+Person#8205 has died
+Person#8243 has died
+Person#8246 has died
+person#8253 has infected person#3883
+Person#8253 has died
+person#8283 has infected person#2887
+Person#8283 has died
+person#8312 has infected person#5086
+Person#8312 has died
+person#8317 has infected person#7411
+person#8317 has infected person#7767
+Person#8317 has died
+person#8320 has infected person#2777
+person#8320 has infected person#8482
+Person#8320 has died
+Person#8328 has died
+person#8338 has infected person#3218
+Person#8338 has died
+Person#8347 has Survived the disease
+Person#8356 has died
+person#8382 has infected person#7724
+Person#8382 has died
+Person#8402 has died
+Person#8422 has died
+person#8427 has infected person#3112
+person#8427 has infected person#3476
+Person#8427 has died
+Person#8432 has died
+Person#8445 has Survived the disease
+person#8451 has infected person#2355
+Person#8451 has Survived the disease
+Person#8482 has died
+person#8494 has infected person#5503
+person#8494 has infected person#413
+person#8494 has infected person#4339
+Person#8494 has Survived the disease
+person#8551 has infected person#3510
+person#8551 has infected person#8438
+Person#8551 has Survived the disease
+Person#8563 has died
+Person#8591 has Survived the disease
+person#8640 has infected person#921
+Person#8640 has died
+person#8659 has infected person#8148
+person#8659 has infected person#6379
+Person#8659 has Survived the disease
+person#8666 has infected person#5205
+Person#8666 has Survived the disease
+Person#8706 has Survived the disease
+person#8730 has infected person#2882
+Person#8730 has died
+Person#8732 has Survived the disease
+Person#8770 has died
+person#8787 has infected person#8416
+person#8787 has infected person#5092
+Person#8787 has died
+person#8828 has infected person#1432
+Person#8828 has Survived the disease
+Person#8842 has Survived the disease
+Person#8844 has died
+Person#8892 has Survived the disease
+person#8902 has infected person#5897
+person#8902 has infected person#1854
+person#8902 has infected person#1416
+person#8902 has infected person#5946
+Person#8902 has died
+Person#8907 has died
+Person#8911 has died
+person#8946 has infected person#7938
+person#8946 has infected person#4785
+person#8946 has infected person#6191
+Person#8946 has died
+person#8951 has infected person#5354
+Person#8951 has died
+Person#8986 has died
+person#8992 has infected person#6499
+Person#8992 has died
+person#9023 has infected person#3616
+person#9023 has infected person#9741
+Person#9023 has Survived the disease
+person#9027 has infected person#4804
+Person#9027 has Survived the disease
+person#9047 has infected person#6011
+person#9047 has infected person#3225
+Person#9047 has Survived the disease
+Person#9052 has died
+Person#9071 has died
+Person#9098 has Survived the disease
+Person#9102 has Survived the disease
+person#9121 has infected person#2185
+Person#9121 has Survived the disease
+person#9127 has infected person#1828
+Person#9127 has died
+person#9162 has infected person#5896
+Person#9162 has died
+Person#9180 has Survived the disease
+person#9183 has infected person#160
+Person#9183 has died
+person#9189 has infected person#6496
+Person#9189 has died
+person#9190 has infected person#6235
+Person#9190 has died
+person#9218 has infected person#6322
+Person#9218 has died
+person#9220 has infected person#7809
+Person#9220 has died
+person#9257 has infected person#5649
+Person#9257 has died
+Person#9267 has died
+person#9269 has infected person#2925
+Person#9269 has died
+person#9279 has infected person#5766
+person#9279 has infected person#331
+Person#9279 has died
+person#9317 has infected person#143
+Person#9317 has died
+person#9335 has infected person#5462
+person#9335 has infected person#5712
+Person#9335 has died
+Person#9340 has died
+person#9355 has infected person#1100
+person#9355 has infected person#5321
+Person#9355 has died
+person#9370 has infected person#3186
+Person#9370 has died
+Person#9388 has died
+person#9444 has infected person#1700
+person#9444 has infected person#5346
+Person#9444 has Survived the disease
+person#9455 has infected person#9702
+Person#9455 has died
+Person#9460 has died
+Person#9477 has died
+Person#9490 has died
+person#9493 has infected person#551
+Person#9493 has died
+person#9494 has infected person#4543
+Person#9494 has died
+Person#9499 has died
+Person#9512 has died
+Person#9519 has died
+person#9532 has infected person#3018
+Person#9532 has Survived the disease
+Person#9548 has died
+person#9551 has infected person#1599
+Person#9551 has died
+Person#9571 has Survived the disease
+Person#9617 has died
+person#9633 has infected person#8658
+Person#9633 has died
+Person#9660 has died
+person#9677 has infected person#7620
+Person#9677 has died
+Person#9679 has died
+person#9702 has infected person#6553
+person#9702 has infected person#4156
+Person#9702 has Survived the disease
+Person#9707 has died
+person#9741 has infected person#5839
+person#9741 has infected person#556
+Person#9741 has Survived the disease
+person#9765 has infected person#6888
+Person#9765 has died
+person#9773 has infected person#8862
+Person#9773 has died
+person#9830 has infected person#9731
+Person#9830 has Survived the disease
+person#9866 has infected person#6926
+Person#9866 has died
+person#9871 has infected person#2637
+Person#9871 has died
+person#9889 has infected person#707
+Person#9889 has died
+person#9895 has infected person#9142
+person#9895 has infected person#7858
+Person#9895 has died
+person#9900 has infected person#5250
+Person#9900 has died
+person#9909 has infected person#9172
+Person#9909 has Survived the disease
+person#9912 has infected person#5726
+Person#9912 has died
+person#9933 has infected person#9691
+person#9933 has infected person#443
+person#9933 has infected person#8575
+Person#9933 has died
+Person#9978 has died
+person#9984 has infected person#1981
+Person#9984 has Survived the disease
+person#9988 has infected person#7987
+Person#9988 has Survived the disease
+person#9995 has infected person#4415
+Person#9995 has died
+Time Step #2 has ended.
+Next Time Step Initiating...
+Time Step #3 has started
+person#6 has infected person#9673
+Person#6 has died
+person#7 has infected person#7637
+Person#7 has died
+Person#8 has Survived the disease
+Person#9 has died
+person#34 has infected person#5500
+Person#34 has died
+Person#43 has died
+person#63 has infected person#6036
+person#63 has infected person#3111
+Person#63 has died
+person#70 has infected person#9299
+Person#70 has died
+person#81 has infected person#8537
+Person#81 has died
+Person#96 has died
+Person#119 has died
+Person#124 has died
+person#137 has infected person#2896
+person#137 has infected person#4197
+Person#137 has Survived the disease
+person#143 has infected person#2300
+person#143 has infected person#5003
+Person#143 has died
+person#160 has infected person#6554
+Person#160 has Survived the disease
+Person#173 has Survived the disease
+Person#203 has died
+Person#208 has died
+Person#210 has died
+person#211 has infected person#567
+Person#211 has died
+person#225 has infected person#8891
+Person#225 has Survived the disease
+Person#253 has died
+person#264 has infected person#9591
+Person#264 has died
+Person#265 has died
+Person#269 has died
+person#277 has infected person#1838
+person#277 has infected person#6431
+Person#277 has died
+person#295 has infected person#3584
+Person#295 has died
+person#310 has infected person#6319
+person#310 has infected person#7784
+Person#310 has died
+person#329 has infected person#224
+Person#329 has died
+Person#331 has died
+Person#337 has died
+person#356 has infected person#3678
+person#356 has infected person#7612
+Person#356 has died
+person#379 has infected person#5790
+Person#379 has died
+person#400 has infected person#650
+person#400 has infected person#6552
+Person#400 has Survived the disease
+Person#413 has died
+Person#443 has Survived the disease
+Person#451 has died
+person#453 has infected person#3747
+Person#453 has Survived the disease
+Person#485 has Survived the disease
+Person#536 has died
+Person#551 has died
+person#556 has infected person#8365
+person#556 has infected person#3982
+person#556 has infected person#3594
+Person#556 has died
+Person#567 has died
+Person#577 has Survived the disease
+person#609 has infected person#3301
+Person#609 has died
+person#640 has infected person#4472
+Person#640 has died
+Person#650 has Survived the disease
+person#672 has infected person#8235
+person#672 has infected person#2064
+person#672 has infected person#283
+Person#672 has died
+person#682 has infected person#2851
+Person#682 has Survived the disease
+Person#687 has Survived the disease
+Person#703 has died
+person#707 has infected person#5662
+person#707 has infected person#2899
+Person#707 has died
+Person#711 has died
+Person#722 has Survived the disease
+person#731 has infected person#1306
+Person#731 has died
+Person#734 has Survived the disease
+Person#735 has Survived the disease
+person#742 has infected person#9000
+Person#742 has Survived the disease
+Person#755 has died
+person#761 has infected person#8829
+Person#761 has died
+person#764 has infected person#1839
+person#764 has infected person#1035
+Person#764 has died
+Person#775 has died
+Person#787 has died
+person#796 has infected person#1580
+Person#796 has died
+person#807 has infected person#7338
+person#807 has infected person#7470
+Person#807 has died
+person#813 has infected person#5478
+Person#813 has Survived the disease
+person#834 has infected person#5813
+person#834 has infected person#2560
+person#834 has infected person#4268
+Person#834 has died
+person#864 has infected person#3831
+person#864 has infected person#1843
+Person#864 has died
+person#887 has infected person#4124
+person#887 has infected person#7693
+Person#887 has Survived the disease
+person#894 has infected person#4343
+Person#894 has died
+person#912 has infected person#7227
+person#912 has infected person#9075
+person#912 has infected person#9291
+Person#912 has Survived the disease
+person#921 has infected person#5312
+Person#921 has died
+Person#956 has died
+Person#962 has died
+Person#979 has died
+person#1004 has infected person#2202
+Person#1004 has died
+person#1008 has infected person#2471
+Person#1008 has died
+Person#1013 has died
+person#1035 has infected person#1504
+Person#1035 has Survived the disease
+person#1064 has infected person#849
+Person#1064 has died
+Person#1070 has died
+person#1079 has infected person#1715
+Person#1079 has died
+person#1100 has infected person#3535
+Person#1100 has died
+Person#1117 has died
+Person#1131 has Survived the disease
+Person#1222 has died
+person#1296 has infected person#8888
+person#1296 has infected person#239
+Person#1296 has died
+person#1306 has infected person#6015
+Person#1306 has died
+Person#1357 has died
+Person#1416 has died
+person#1432 has infected person#583
+Person#1432 has Survived the disease
+person#1437 has infected person#8953
+Person#1437 has died
+Person#1463 has died
+Person#1480 has Survived the disease
+Person#1483 has Survived the disease
+person#1504 has infected person#2021
+Person#1504 has died
+Person#1505 has Survived the disease
+person#1511 has infected person#8201
+person#1511 has infected person#3359
+Person#1511 has Survived the disease
+person#1523 has infected person#9408
+person#1523 has infected person#8003
+Person#1523 has died
+person#1539 has infected person#1803
+Person#1539 has died
+Person#1558 has died
+Person#1574 has died
+person#1580 has infected person#8788
+Person#1580 has died
+Person#1591 has died
+person#1599 has infected person#2636
+Person#1599 has Survived the disease
+person#1610 has infected person#1362
+Person#1610 has Survived the disease
+person#1629 has infected person#9979
+person#1629 has infected person#3262
+Person#1629 has died
+Person#1668 has died
+person#1693 has infected person#5098
+person#1693 has infected person#6996
+Person#1693 has died
+person#1696 has infected person#3274
+Person#1696 has Survived the disease
+person#1700 has infected person#9956
+Person#1700 has died
+person#1715 has infected person#3575
+Person#1715 has died
+person#1726 has infected person#1136
+person#1726 has infected person#6089
+person#1726 has infected person#6947
+Person#1726 has died
+Person#1746 has died
+Person#1754 has died
+person#1790 has infected person#2721
+Person#1790 has died
+Person#1803 has died
+person#1819 has infected person#3160
+Person#1819 has Survived the disease
+Person#1828 has died
+person#1833 has infected person#6403
+Person#1833 has died
+person#1834 has infected person#9699
+Person#1834 has Survived the disease
+person#1838 has infected person#4160
+Person#1838 has Survived the disease
+person#1839 has infected person#9163
+Person#1839 has Survived the disease
+person#1842 has infected person#6162
+person#1842 has infected person#3814
+Person#1842 has died
+person#1843 has infected person#865
+Person#1843 has died
+Person#1844 has died
+Person#1854 has died
+Person#1881 has Survived the disease
+person#1896 has infected person#9849
+person#1896 has infected person#8385
+Person#1896 has died
+Person#1945 has died
+Person#1948 has died
+Person#1953 has died
+person#1981 has infected person#6149
+person#1981 has infected person#983
+Person#1981 has died
+Person#2015 has died
+Person#2021 has Survived the disease
+Person#2022 has Survived the disease
+Person#2035 has Survived the disease
+Person#2037 has died
+Person#2043 has died
+person#2059 has infected person#3599
+Person#2059 has died
+Person#2064 has died
+Person#2069 has Survived the disease
+Person#2079 has Survived the disease
+Person#2109 has died
+Person#2115 has Survived the disease
+person#2135 has infected person#3719
+Person#2135 has died
+person#2140 has infected person#9929
+Person#2140 has died
+Person#2152 has died
+person#2183 has infected person#9492
+Person#2183 has died
+person#2185 has infected person#1058
+person#2185 has infected person#8233
+Person#2185 has died
+Person#2199 has died
+Person#2202 has Survived the disease
+Person#2208 has Survived the disease
+Person#2213 has died
+Person#2216 has died
+Person#2249 has Survived the disease
+person#2250 has infected person#3101
+Person#2250 has died
+person#2251 has infected person#7210
+Person#2251 has Survived the disease
+person#2270 has infected person#2374
+Person#2270 has died
+Person#2281 has died
+Person#2285 has Survived the disease
+Person#2300 has Survived the disease
+person#2316 has infected person#230
+Person#2316 has died
+Person#2320 has Survived the disease
+Person#2334 has died
+Person#2338 has died
+person#2355 has infected person#8824
+Person#2355 has died
+Person#2357 has Survived the disease
+Person#2374 has died
+person#2466 has infected person#873
+Person#2466 has died
+person#2471 has infected person#8584
+Person#2471 has Survived the disease
+Person#2476 has died
+person#2497 has infected person#786
+Person#2497 has died
+person#2500 has infected person#364
+Person#2500 has died
+Person#2503 has died
+Person#2522 has Survived the disease
+person#2524 has infected person#2645
+Person#2524 has died
+Person#2560 has died
+person#2565 has infected person#8649
+Person#2565 has died
+Person#2581 has Survived the disease
+Person#2636 has Survived the disease
+Person#2637 has died
+Person#2638 has Survived the disease
+Person#2645 has died
+Person#2687 has died
+Person#2721 has died
+Person#2724 has died
+person#2734 has infected person#9367
+Person#2734 has died
+Person#2755 has Survived the disease
+person#2777 has infected person#3758
+person#2777 has infected person#2737
+Person#2777 has died
+person#2782 has infected person#996
+Person#2782 has died
+Person#2790 has died
+person#2808 has infected person#8849
+Person#2808 has died
+Person#2826 has Survived the disease
+Person#2837 has died
+Person#2851 has Survived the disease
+Person#2882 has died
+Person#2887 has Survived the disease
+Person#2896 has died
+person#2899 has infected person#6882
+Person#2899 has died
+person#2900 has infected person#1670
+Person#2900 has Survived the disease
+Person#2905 has Survived the disease
+person#2907 has infected person#947
+Person#2907 has died
+person#2921 has infected person#2848
+Person#2921 has died
+person#2925 has infected person#2278
+Person#2925 has Survived the disease
+person#2935 has infected person#5443
+Person#2935 has died
+person#2944 has infected person#6831
+Person#2944 has Survived the disease
+Person#2948 has died
+Person#2956 has Survived the disease
+Person#2958 has Survived the disease
+Person#2961 has died
+Person#2963 has died
+Person#2973 has Survived the disease
+person#2975 has infected person#2630
+Person#2975 has died
+Person#2976 has died
+person#2979 has infected person#9241
+Person#2979 has died
+Person#2987 has died
+Person#3018 has died
+Person#3030 has Survived the disease
+person#3078 has infected person#4500
+Person#3078 has died
+Person#3090 has died
+Person#3093 has Survived the disease
+Person#3100 has died
+person#3101 has infected person#1792
+Person#3101 has died
+person#3105 has infected person#180
+Person#3105 has died
+Person#3111 has died
+person#3112 has infected person#7562
+Person#3112 has died
+Person#3128 has Survived the disease
+person#3129 has infected person#8477
+Person#3129 has died
+Person#3149 has died
+Person#3160 has Survived the disease
+Person#3186 has died
+Person#3208 has died
+Person#3218 has died
+person#3225 has infected person#3580
+Person#3225 has died
+person#3245 has infected person#1356
+Person#3245 has died
+person#3262 has infected person#961
+Person#3262 has died
+person#3274 has infected person#8198
+Person#3274 has Survived the disease
+Person#3301 has died
+Person#3314 has Survived the disease
+Person#3359 has died
+Person#3365 has died
+Person#3380 has died
+Person#3414 has died
+Person#3418 has died
+person#3428 has infected person#3107
+Person#3428 has died
+Person#3452 has Survived the disease
+Person#3474 has Survived the disease
+person#3476 has infected person#362
+Person#3476 has Survived the disease
+Person#3510 has died
+Person#3535 has died
+person#3550 has infected person#7923
+Person#3550 has died
+Person#3562 has died
+person#3569 has infected person#1851
+Person#3569 has Survived the disease
+Person#3575 has Survived the disease
+person#3580 has infected person#4852
+Person#3580 has died
+Person#3584 has died
+Person#3594 has died
+person#3598 has infected person#3886
+person#3598 has infected person#5520
+Person#3598 has died
+Person#3599 has died
+person#3616 has infected person#8238
+Person#3616 has Survived the disease
+person#3618 has infected person#4636
+Person#3618 has Survived the disease
+person#3671 has infected person#9277
+Person#3671 has died
+Person#3678 has died
+Person#3719 has died
+person#3725 has infected person#6165
+Person#3725 has died
+person#3728 has infected person#3697
+Person#3728 has died
+Person#3731 has died
+person#3736 has infected person#3732
+Person#3736 has died
+Person#3747 has died
+Person#3758 has died
+person#3785 has infected person#5252
+Person#3785 has died
+person#3807 has infected person#9228
+Person#3807 has Survived the disease
+Person#3814 has Survived the disease
+Person#3830 has died
+Person#3831 has died
+Person#3844 has Survived the disease
+person#3883 has infected person#1765
+Person#3883 has died
+person#3886 has infected person#1376
+Person#3886 has died
+Person#3908 has died
+Person#3938 has died
+Person#3973 has Survived the disease
+Person#3982 has Survived the disease
+person#4080 has infected person#7371
+Person#4080 has died
+Person#4084 has died
+person#4091 has infected person#8166
+Person#4091 has Survived the disease
+Person#4096 has Survived the disease
+Person#4113 has died
+Person#4124 has Survived the disease
+person#4139 has infected person#4751
+Person#4139 has died
+Person#4148 has Survived the disease
+person#4156 has infected person#5883
+Person#4156 has Survived the disease
+Person#4160 has died
+Person#4169 has died
+Person#4174 has died
+Person#4176 has died
+person#4197 has infected person#6448
+Person#4197 has died
+Person#4201 has died
+person#4202 has infected person#1322
+Person#4202 has died
+Person#4214 has died
+Person#4245 has Survived the disease
+person#4268 has infected person#7671
+person#4268 has infected person#8663
+Person#4268 has died
+Person#4339 has Survived the disease
+Person#4343 has Survived the disease
+Person#4366 has died
+person#4367 has infected person#2972
+person#4367 has infected person#8398
+Person#4367 has died
+Person#4415 has died
+Person#4420 has died
+person#4446 has infected person#9650
+Person#4446 has died
+Person#4472 has died
+Person#4480 has died
+Person#4500 has died
+Person#4543 has died
+person#4560 has infected person#7974
+Person#4560 has died
+Person#4561 has Survived the disease
+Person#4597 has died
+Person#4617 has died
+Person#4628 has died
+Person#4636 has Survived the disease
+Person#4690 has died
+Person#4699 has Survived the disease
+Person#4701 has died
+person#4713 has infected person#3800
+Person#4713 has died
+Person#4751 has died
+person#4759 has infected person#2082
+Person#4759 has Survived the disease
+person#4785 has infected person#3761
+person#4785 has infected person#7964
+Person#4785 has died
+Person#4791 has Survived the disease
+Person#4792 has Survived the disease
+Person#4804 has died
+Person#4805 has Survived the disease
+Person#4807 has died
+Person#4808 has died
+Person#4821 has died
+Person#4823 has Survived the disease
+person#4852 has infected person#6052
+Person#4852 has Survived the disease
+Person#4855 has died
+Person#4912 has died
+Person#4923 has died
+Person#4968 has died
+person#4980 has infected person#7959
+Person#4980 has died
+Person#5003 has Survived the disease
+Person#5008 has died
+person#5018 has infected person#4144
+Person#5018 has died
+Person#5025 has died
+Person#5068 has Survived the disease
+Person#5071 has died
+person#5086 has infected person#3361
+Person#5086 has Survived the disease
+person#5092 has infected person#5928
+Person#5092 has Survived the disease
+Person#5098 has Survived the disease
+Person#5179 has died
+Person#5205 has died
+Person#5217 has Survived the disease
+Person#5236 has Survived the disease
+Person#5250 has died
+Person#5252 has Survived the disease
+Person#5256 has died
+person#5279 has infected person#219
+Person#5279 has died
+person#5282 has infected person#6994
+Person#5282 has died
+person#5312 has infected person#958
+person#5312 has infected person#1849
+person#5312 has infected person#2062
+person#5312 has infected person#2017
+Person#5312 has died
+Person#5320 has Survived the disease
+Person#5321 has died
+Person#5329 has died
+Person#5342 has died
+Person#5346 has died
+Person#5354 has died
+Person#5380 has died
+Person#5383 has died
+Person#5406 has died
+Person#5412 has died
+person#5414 has infected person#8616
+Person#5414 has died
+Person#5443 has died
+person#5455 has infected person#5113
+Person#5455 has Survived the disease
+person#5460 has infected person#8644
+Person#5460 has died
+person#5462 has infected person#1541
+Person#5462 has died
+Person#5465 has Survived the disease
+Person#5478 has died
+person#5486 has infected person#2738
+Person#5486 has died
+Person#5496 has died
+person#5500 has infected person#9348
+Person#5500 has died
+Person#5503 has died
+Person#5511 has died
+Person#5515 has died
+Person#5520 has died
+Person#5523 has died
+Person#5563 has Survived the disease
+Person#5568 has died
+Person#5590 has died
+Person#5604 has died
+Person#5649 has died
+Person#5662 has Survived the disease
+Person#5685 has died
+Person#5707 has died
+Person#5712 has died
+Person#5726 has died
+Person#5740 has died
+person#5766 has infected person#1390
+Person#5766 has Survived the disease
+Person#5786 has died
+Person#5790 has Survived the disease
+Person#5792 has Survived the disease
+person#5811 has infected person#1302
+Person#5811 has died
+Person#5813 has Survived the disease
+person#5829 has infected person#9666
+Person#5829 has Survived the disease
+Person#5839 has Survived the disease
+Person#5861 has died
+person#5883 has infected person#5290
+Person#5883 has died
+Person#5891 has died
+Person#5896 has died
+Person#5897 has died
+Person#5901 has died
+Person#5928 has died
+Person#5929 has died
+Person#5937 has died
+Person#5942 has Survived the disease
+person#5946 has infected person#4770
+Person#5946 has Survived the disease
+Person#5955 has died
+Person#5957 has Survived the disease
+Person#5961 has died
+person#5979 has infected person#4603
+Person#5979 has died
+Person#5990 has Survived the disease
+Person#6011 has died
+Person#6015 has Survived the disease
+Person#6036 has died
+Person#6052 has died
+person#6087 has infected person#910
+Person#6087 has died
+Person#6089 has died
+Person#6110 has Survived the disease
+Person#6118 has died
+person#6149 has infected person#3364
+Person#6149 has Survived the disease
+person#6160 has infected person#3662
+Person#6160 has died
+Person#6162 has died
+Person#6165 has died
+Person#6191 has died
+person#6208 has infected person#4599
+person#6208 has infected person#4856
+Person#6208 has died
+Person#6211 has died
+Person#6235 has Survived the disease
+person#6238 has infected person#8859
+Person#6238 has died
+Person#6256 has died
+Person#6265 has died
+person#6269 has infected person#2980
+Person#6269 has Survived the disease
+Person#6290 has Survived the disease
+Person#6319 has Survived the disease
+Person#6322 has died
+person#6362 has infected person#2983
+Person#6362 has died
+Person#6369 has died
+Person#6374 has died
+Person#6379 has died
+Person#6382 has died
+Person#6383 has died
+Person#6397 has died
+Person#6403 has Survived the disease
+Person#6409 has died
+Person#6414 has died
+Person#6424 has Survived the disease
+Person#6431 has Survived the disease
+Person#6440 has died
+Person#6448 has died
+Person#6496 has died
+person#6499 has infected person#6642
+Person#6499 has Survived the disease
+Person#6509 has died
+Person#6513 has Survived the disease
+person#6535 has infected person#8769
+Person#6535 has Survived the disease
+Person#6552 has died
+Person#6553 has died
+Person#6554 has Survived the disease
+Person#6555 has died
+Person#6604 has died
+Person#6622 has died
+Person#6635 has died
+person#6642 has infected person#5917
+Person#6642 has died
+person#6647 has infected person#4877
+Person#6647 has died
+Person#6659 has Survived the disease
+person#6663 has infected person#5550
+person#6663 has infected person#6095
+Person#6663 has died
+Person#6703 has died
+Person#6707 has died
+Person#6736 has Survived the disease
+Person#6751 has died
+Person#6755 has Survived the disease
+Person#6792 has died
+Person#6814 has Survived the disease
+Person#6831 has died
+Person#6847 has died
+Person#6874 has died
+Person#6882 has died
+Person#6888 has died
+person#6926 has infected person#2179
+Person#6926 has died
+Person#6947 has Survived the disease
+Person#6951 has died
+Person#6969 has died
+person#6982 has infected person#4606
+Person#6982 has Survived the disease
+Person#6994 has died
+Person#6996 has died
+Person#7031 has Survived the disease
+Person#7033 has died
+Person#7045 has died
+Person#7047 has died
+Person#7073 has Survived the disease
+person#7176 has infected person#6935
+Person#7176 has died
+Person#7178 has died
+Person#7182 has died
+Person#7210 has died
+Person#7227 has Survived the disease
+Person#7255 has died
+person#7297 has infected person#8456
+Person#7297 has Survived the disease
+Person#7299 has died
+person#7301 has infected person#1208
+Person#7301 has died
+Person#7338 has died
+Person#7371 has died
+Person#7411 has died
+person#7439 has infected person#5047
+Person#7439 has Survived the disease
+person#7465 has infected person#108
+Person#7465 has Survived the disease
+Person#7470 has died
+Person#7471 has Survived the disease
+Person#7477 has died
+Person#7483 has died
+Person#7495 has died
+Person#7515 has died
+Person#7550 has died
+person#7562 has infected person#495
+Person#7562 has Survived the disease
+Person#7563 has died
+Person#7566 has Survived the disease
+person#7599 has infected person#7055
+person#7599 has infected person#9242
+Person#7599 has Survived the disease
+Person#7612 has died
+Person#7620 has Survived the disease
+Person#7637 has Survived the disease
+Person#7660 has died
+Person#7671 has Survived the disease
+Person#7689 has died
+Person#7693 has Survived the disease
+Person#7704 has died
+Person#7724 has died
+Person#7731 has died
+person#7762 has infected person#398
+Person#7762 has Survived the disease
+Person#7767 has died
+Person#7784 has died
+Person#7801 has died
+Person#7804 has died
+Person#7807 has died
+Person#7809 has died
+Person#7812 has died
+person#7850 has infected person#8680
+Person#7850 has Survived the disease
+Person#7858 has died
+Person#7923 has died
+Person#7924 has died
+person#7925 has infected person#1959
+Person#7925 has Survived the disease
+Person#7938 has died
+Person#7945 has Survived the disease
+Person#7959 has died
+person#7964 has infected person#2284
+Person#7964 has Survived the disease
+Person#7967 has died
+Person#7974 has died
+Person#7987 has died
+Person#8003 has died
+person#8042 has infected person#1644
+Person#8042 has died
+Person#8044 has died
+Person#8068 has Survived the disease
+Person#8081 has died
+Person#8082 has Survived the disease
+Person#8083 has died
+Person#8085 has died
+Person#8112 has Survived the disease
+Person#8126 has died
+Person#8143 has died
+person#8148 has infected person#8590
+Person#8148 has died
+Person#8154 has died
+Person#8166 has died
+Person#8179 has Survived the disease
+Person#8198 has died
+Person#8201 has died
+Person#8205 has died
+Person#8233 has died
+person#8235 has infected person#9867
+Person#8235 has died
+Person#8238 has died
+person#8243 has infected person#7188
+person#8243 has infected person#5587
+Person#8243 has died
+person#8246 has infected person#2101
+Person#8246 has Survived the disease
+Person#8253 has died
+Person#8283 has Survived the disease
+person#8312 has infected person#5474
+Person#8312 has died
+Person#8317 has died
+Person#8320 has Survived the disease
+person#8328 has infected person#9814
+Person#8328 has died
+Person#8338 has died
+Person#8356 has died
+Person#8365 has died
+Person#8382 has died
+Person#8385 has Survived the disease
+Person#8398 has died
+Person#8402 has died
+Person#8416 has died
+person#8422 has infected person#1733
+Person#8422 has died
+Person#8427 has Survived the disease
+person#8432 has infected person#8752
+person#8432 has infected person#2428
+Person#8432 has died
+Person#8438 has died
+person#8456 has infected person#3918
+Person#8456 has died
+Person#8477 has died
+Person#8482 has died
+Person#8537 has died
+Person#8563 has Survived the disease
+Person#8575 has Survived the disease
+Person#8584 has died
+Person#8590 has died
+Person#8616 has Survived the disease
+person#8640 has infected person#6603
+Person#8640 has Survived the disease
+Person#8644 has Survived the disease
+Person#8649 has Survived the disease
+Person#8658 has died
+Person#8663 has Survived the disease
+Person#8680 has died
+person#8730 has infected person#8728
+Person#8730 has died
+Person#8752 has died
+Person#8769 has died
+Person#8770 has died
+Person#8787 has died
+Person#8788 has died
+Person#8824 has died
+Person#8829 has Survived the disease
+person#8844 has infected person#5225
+Person#8844 has Survived the disease
+Person#8849 has died
+Person#8859 has died
+Person#8862 has died
+Person#8888 has Survived the disease
+person#8891 has infected person#9684
+Person#8891 has died
+Person#8902 has died
+Person#8907 has Survived the disease
+Person#8911 has died
+Person#8946 has Survived the disease
+Person#8951 has died
+Person#8953 has died
+Person#8986 has died
+Person#8992 has died
+person#9000 has infected person#1784
+Person#9000 has Survived the disease
+person#9052 has infected person#4312
+person#9052 has infected person#4551
+Person#9052 has died
+Person#9071 has Survived the disease
+Person#9075 has died
+Person#9127 has Survived the disease
+person#9142 has infected person#5002
+Person#9142 has died
+Person#9162 has died
+Person#9163 has died
+Person#9172 has died
+Person#9183 has died
+Person#9189 has died
+Person#9190 has died
+person#9218 has infected person#7892
+Person#9218 has died
+person#9220 has infected person#192
+Person#9220 has died
+Person#9228 has Survived the disease
+Person#9241 has died
+Person#9242 has Survived the disease
+Person#9257 has died
+Person#9267 has Survived the disease
+Person#9269 has died
+Person#9277 has Survived the disease
+Person#9279 has died
+Person#9291 has died
+Person#9299 has died
+Person#9317 has died
+Person#9335 has died
+Person#9340 has died
+Person#9348 has died
+Person#9355 has died
+Person#9367 has died
+Person#9370 has died
+Person#9388 has died
+Person#9408 has Survived the disease
+Person#9455 has died
+Person#9460 has died
+Person#9477 has died
+Person#9490 has died
+Person#9492 has Survived the disease
+Person#9493 has died
+Person#9494 has died
+Person#9499 has died
+Person#9512 has Survived the disease
+Person#9519 has died
+Person#9548 has died
+Person#9551 has died
+Person#9591 has Survived the disease
+Person#9617 has died
+Person#9633 has Survived the disease
+Person#9650 has Survived the disease
+Person#9660 has died
+Person#9666 has Survived the disease
+Person#9673 has died
+Person#9677 has died
+Person#9679 has Survived the disease
+Person#9684 has died
+Person#9691 has died
+Person#9699 has died
+Person#9707 has died
+Person#9731 has died
+Person#9765 has died
+Person#9773 has died
+Person#9814 has died
+Person#9849 has died
+Person#9866 has Survived the disease
+Person#9867 has died
+Person#9871 has Survived the disease
+Person#9889 has Survived the disease
+Person#9895 has died
+Person#9900 has died
+Person#9912 has died
+person#9929 has infected person#1777
+Person#9929 has died
+Person#9933 has died
+Person#9956 has died
+Person#9978 has died
+Person#9979 has died
+Person#9995 has died
+Time Step #3 has ended.
+Next Time Step Initiating...
+Time Step #4 has started
+Person#6 has died
+Person#7 has Survived the disease
+Person#9 has died
+Person#34 has died
+Person#43 has died
+Person#63 has died
+Person#70 has died
+Person#81 has Survived the disease
+person#96 has infected person#1379
+Person#96 has Survived the disease
+person#108 has infected person#1239
+Person#108 has died
+Person#119 has Survived the disease
+Person#124 has Survived the disease
+Person#143 has died
+person#180 has infected person#8067
+Person#180 has died
+Person#192 has Survived the disease
+Person#203 has died
+person#208 has infected person#4712
+Person#208 has died
+Person#210 has Survived the disease
+person#211 has infected person#945
+Person#211 has died
+Person#219 has died
+Person#224 has died
+Person#230 has died
+Person#239 has Survived the disease
+Person#253 has died
+Person#264 has died
+Person#265 has died
+Person#269 has died
+Person#277 has Survived the disease
+Person#283 has died
+Person#295 has died
+Person#310 has died
+Person#329 has Survived the disease
+Person#331 has died
+Person#337 has died
+Person#356 has Survived the disease
+Person#362 has died
+person#364 has infected person#7351
+Person#364 has died
+person#379 has infected person#7459
+Person#379 has Survived the disease
+Person#398 has died
+Person#413 has died
+Person#451 has Survived the disease
+Person#495 has died
+Person#536 has died
+Person#551 has died
+Person#556 has died
+Person#567 has died
+Person#583 has died
+Person#609 has died
+Person#640 has died
+Person#672 has died
+Person#703 has died
+Person#707 has Survived the disease
+Person#711 has died
+Person#731 has died
+Person#755 has died
+Person#761 has died
+Person#764 has died
+Person#775 has Survived the disease
+Person#786 has died
+Person#787 has died
+Person#796 has Survived the disease
+Person#807 has died
+Person#834 has died
+Person#849 has died
+Person#864 has died
+Person#865 has died
+Person#873 has died
+Person#894 has Survived the disease
+Person#910 has died
+Person#921 has Survived the disease
+Person#945 has died
+Person#947 has died
+Person#956 has died
+Person#958 has died
+Person#961 has died
+Person#962 has died
+Person#979 has died
+Person#983 has died
+Person#996 has died
+Person#1004 has Survived the disease
+Person#1008 has died
+Person#1013 has Survived the disease
+Person#1058 has died
+Person#1064 has died
+Person#1070 has Survived the disease
+Person#1079 has died
+Person#1100 has Survived the disease
+Person#1117 has died
+person#1136 has infected person#9103
+Person#1136 has Survived the disease
+Person#1208 has Survived the disease
+Person#1222 has died
+Person#1239 has Survived the disease
+Person#1296 has died
+Person#1302 has died
+Person#1306 has died
+Person#1322 has died
+Person#1356 has died
+Person#1357 has died
+Person#1362 has died
+Person#1376 has died
+Person#1379 has Survived the disease
+Person#1390 has died
+Person#1416 has died
+Person#1437 has died
+Person#1463 has died
+Person#1504 has died
+Person#1523 has Survived the disease
+person#1539 has infected person#7525
+Person#1539 has Survived the disease
+Person#1541 has died
+Person#1558 has died
+Person#1574 has died
+Person#1580 has Survived the disease
+Person#1591 has Survived the disease
+Person#1629 has died
+Person#1644 has died
+Person#1668 has died
+Person#1670 has died
+Person#1693 has died
+Person#1700 has died
+Person#1715 has died
+Person#1726 has died
+Person#1733 has died
+Person#1746 has Survived the disease
+Person#1754 has died
+Person#1765 has Survived the disease
+Person#1777 has Survived the disease
+Person#1784 has died
+Person#1790 has died
+Person#1792 has died
+Person#1803 has Survived the disease
+Person#1828 has died
+Person#1833 has Survived the disease
+Person#1842 has died
+Person#1843 has died
+Person#1844 has died
+Person#1849 has Survived the disease
+Person#1851 has died
+Person#1854 has died
+Person#1896 has Survived the disease
+Person#1945 has died
+person#1948 has infected person#5820
+Person#1948 has died
+Person#1953 has died
+Person#1959 has died
+Person#1981 has died
+person#2015 has infected person#2764
+Person#2015 has died
+Person#2017 has Survived the disease
+Person#2037 has died
+person#2043 has infected person#1589
+Person#2043 has Survived the disease
+Person#2059 has Survived the disease
+Person#2062 has died
+Person#2064 has Survived the disease
+Person#2082 has died
+Person#2101 has died
+Person#2109 has Survived the disease
+Person#2135 has died
+Person#2140 has died
+Person#2152 has died
+Person#2179 has died
+Person#2183 has Survived the disease
+Person#2185 has died
+Person#2199 has died
+Person#2213 has died
+Person#2216 has died
+Person#2250 has Survived the disease
+person#2270 has infected person#1387
+Person#2270 has died
+Person#2278 has died
+Person#2281 has died
+Person#2284 has died
+Person#2316 has died
+person#2334 has infected person#6138
+Person#2334 has died
+Person#2338 has died
+Person#2355 has Survived the disease
+Person#2374 has Survived the disease
+Person#2428 has Survived the disease
+Person#2466 has Survived the disease
+Person#2476 has Survived the disease
+Person#2497 has died
+Person#2500 has died
+person#2503 has infected person#8463
+person#2503 has infected person#4439
+Person#2503 has died
+Person#2524 has Survived the disease
+person#2560 has infected person#9454
+Person#2560 has died
+Person#2565 has died
+Person#2630 has died
+Person#2637 has died
+Person#2645 has died
+Person#2687 has died
+person#2721 has infected person#86
+Person#2721 has Survived the disease
+Person#2724 has Survived the disease
+Person#2734 has died
+Person#2737 has died
+Person#2738 has died
+Person#2764 has died
+Person#2777 has Survived the disease
+Person#2782 has died
+Person#2790 has died
+Person#2808 has died
+Person#2837 has died
+Person#2848 has died
+Person#2882 has died
+Person#2896 has died
+Person#2899 has Survived the disease
+Person#2907 has died
+Person#2921 has died
+person#2935 has infected person#8469
+Person#2935 has died
+Person#2948 has died
+Person#2961 has died
+Person#2963 has Survived the disease
+Person#2972 has Survived the disease
+Person#2975 has died
+Person#2976 has died
+Person#2979 has died
+Person#2980 has Survived the disease
+Person#2983 has died
+Person#2987 has died
+person#3018 has infected person#2774
+Person#3018 has died
+Person#3078 has Survived the disease
+Person#3090 has died
+Person#3100 has died
+Person#3101 has died
+person#3105 has infected person#3817
+Person#3105 has died
+person#3107 has infected person#4250
+Person#3107 has died
+Person#3111 has died
+Person#3112 has died
+Person#3129 has Survived the disease
+Person#3149 has Survived the disease
+Person#3186 has Survived the disease
+Person#3208 has died
+Person#3218 has died
+Person#3225 has died
+Person#3245 has died
+Person#3262 has died
+person#3301 has infected person#7827
+Person#3301 has died
+Person#3359 has died
+Person#3361 has died
+Person#3364 has died
+Person#3365 has died
+Person#3380 has died
+Person#3414 has died
+Person#3418 has died
+Person#3428 has died
+Person#3510 has died
+Person#3535 has died
+Person#3550 has Survived the disease
+Person#3562 has Survived the disease
+Person#3580 has died
+Person#3584 has died
+Person#3594 has died
+person#3598 has infected person#2379
+Person#3598 has died
+Person#3599 has died
+Person#3662 has Survived the disease
+Person#3671 has died
+Person#3678 has died
+Person#3697 has died
+Person#3719 has died
+Person#3725 has died
+Person#3728 has died
+Person#3731 has Survived the disease
+Person#3732 has died
+Person#3736 has died
+Person#3747 has died
+Person#3758 has Survived the disease
+Person#3761 has died
+Person#3785 has died
+Person#3800 has Survived the disease
+person#3817 has infected person#7990
+Person#3817 has Survived the disease
+Person#3830 has died
+Person#3831 has died
+Person#3883 has Survived the disease
+Person#3886 has Survived the disease
+Person#3908 has Survived the disease
+Person#3918 has died
+Person#3938 has Survived the disease
+Person#4080 has Survived the disease
+Person#4084 has died
+Person#4113 has died
+Person#4139 has Survived the disease
+Person#4144 has Survived the disease
+Person#4160 has died
+Person#4169 has died
+Person#4174 has Survived the disease
+Person#4176 has died
+Person#4197 has died
+Person#4201 has Survived the disease
+Person#4202 has died
+Person#4214 has died
+Person#4250 has died
+person#4268 has infected person#6823
+Person#4268 has died
+person#4312 has infected person#7706
+Person#4312 has died
+Person#4366 has died
+Person#4367 has died
+Person#4415 has Survived the disease
+Person#4420 has died
+Person#4439 has Survived the disease
+person#4446 has infected person#9266
+Person#4446 has died
+Person#4472 has Survived the disease
+Person#4480 has Survived the disease
+Person#4500 has Survived the disease
+Person#4543 has Survived the disease
+Person#4551 has died
+Person#4560 has died
+Person#4597 has Survived the disease
+Person#4599 has died
+Person#4603 has died
+Person#4606 has Survived the disease
+Person#4617 has died
+Person#4628 has Survived the disease
+Person#4690 has died
+Person#4701 has died
+Person#4712 has died
+Person#4713 has Survived the disease
+Person#4751 has Survived the disease
+Person#4770 has died
+Person#4785 has died
+person#4804 has infected person#987
+Person#4804 has Survived the disease
+Person#4807 has died
+Person#4808 has Survived the disease
+Person#4821 has died
+Person#4855 has died
+Person#4856 has died
+Person#4877 has Survived the disease
+Person#4912 has died
+Person#4923 has Survived the disease
+Person#4968 has died
+Person#4980 has died
+Person#5002 has died
+Person#5008 has Survived the disease
+Person#5018 has died
+Person#5025 has died
+Person#5047 has Survived the disease
+Person#5071 has died
+Person#5113 has died
+Person#5179 has Survived the disease
+Person#5205 has died
+Person#5225 has died
+Person#5250 has died
+Person#5256 has died
+Person#5279 has Survived the disease
+Person#5282 has died
+Person#5290 has died
+Person#5312 has Survived the disease
+Person#5321 has died
+Person#5329 has died
+Person#5342 has Survived the disease
+Person#5346 has Survived the disease
+Person#5354 has died
+Person#5380 has Survived the disease
+Person#5383 has Survived the disease
+Person#5406 has died
+Person#5412 has died
+Person#5414 has died
+Person#5443 has died
+Person#5460 has Survived the disease
+Person#5462 has Survived the disease
+Person#5474 has died
+Person#5478 has died
+Person#5486 has died
+Person#5496 has died
+Person#5500 has Survived the disease
+Person#5503 has died
+Person#5511 has died
+Person#5515 has died
+Person#5520 has died
+Person#5523 has died
+Person#5550 has Survived the disease
+Person#5568 has died
+Person#5587 has died
+Person#5590 has died
+Person#5604 has Survived the disease
+Person#5649 has Survived the disease
+person#5685 has infected person#933
+Person#5685 has died
+Person#5707 has died
+Person#5712 has Survived the disease
+Person#5726 has died
+Person#5740 has died
+Person#5786 has Survived the disease
+Person#5811 has died
+person#5820 has infected person#5169
+Person#5820 has died
+Person#5861 has died
+Person#5883 has Survived the disease
+Person#5891 has Survived the disease
+Person#5896 has died
+Person#5897 has died
+Person#5901 has died
+Person#5917 has Survived the disease
+Person#5928 has died
+Person#5929 has Survived the disease
+Person#5937 has died
+Person#5955 has Survived the disease
+Person#5961 has died
+Person#5979 has died
+Person#6011 has died
+Person#6036 has died
+Person#6052 has died
+Person#6087 has died
+Person#6089 has died
+Person#6095 has died
+Person#6118 has died
+Person#6138 has Survived the disease
+Person#6160 has died
+Person#6162 has died
+Person#6165 has Survived the disease
+Person#6191 has died
+Person#6208 has died
+Person#6211 has died
+Person#6238 has died
+Person#6256 has died
+Person#6265 has died
+Person#6322 has died
+Person#6362 has died
+Person#6369 has Survived the disease
+Person#6374 has died
+Person#6379 has died
+Person#6382 has Survived the disease
+Person#6383 has died
+Person#6397 has Survived the disease
+Person#6409 has died
+Person#6414 has Survived the disease
+Person#6440 has Survived the disease
+Person#6448 has died
+Person#6496 has Survived the disease
+Person#6509 has died
+Person#6552 has died
+Person#6553 has died
+Person#6555 has died
+Person#6603 has Survived the disease
+Person#6604 has died
+Person#6622 has died
+Person#6635 has died
+Person#6642 has died
+Person#6647 has died
+Person#6663 has died
+Person#6703 has died
+Person#6707 has Survived the disease
+Person#6751 has died
+Person#6792 has Survived the disease
+Person#6823 has Survived the disease
+Person#6831 has died
+Person#6847 has died
+Person#6874 has Survived the disease
+Person#6882 has Survived the disease
+Person#6888 has died
+Person#6926 has Survived the disease
+Person#6935 has died
+Person#6951 has died
+Person#6969 has died
+Person#6994 has Survived the disease
+Person#6996 has died
+Person#7033 has died
+Person#7045 has died
+person#7047 has infected person#3462
+Person#7047 has died
+Person#7055 has died
+Person#7176 has Survived the disease
+Person#7178 has died
+Person#7182 has died
+Person#7188 has Survived the disease
+Person#7210 has Survived the disease
+person#7255 has infected person#1502
+Person#7255 has died
+Person#7299 has died
+Person#7301 has died
+Person#7338 has died
+Person#7351 has Survived the disease
+Person#7371 has Survived the disease
+Person#7411 has died
+person#7459 has infected person#6569
+Person#7459 has Survived the disease
+Person#7470 has died
+Person#7477 has died
+Person#7483 has died
+Person#7495 has Survived the disease
+Person#7515 has Survived the disease
+Person#7525 has died
+Person#7550 has died
+Person#7563 has Survived the disease
+Person#7612 has Survived the disease
+Person#7660 has died
+Person#7689 has Survived the disease
+person#7704 has infected person#7166
+Person#7704 has died
+Person#7706 has died
+Person#7724 has died
+Person#7731 has died
+Person#7767 has Survived the disease
+Person#7784 has died
+Person#7801 has died
+Person#7804 has died
+Person#7807 has Survived the disease
+Person#7809 has died
+Person#7812 has Survived the disease
+Person#7827 has died
+Person#7858 has died
+Person#7892 has Survived the disease
+Person#7923 has died
+Person#7924 has died
+Person#7938 has died
+Person#7959 has died
+Person#7967 has died
+Person#7974 has Survived the disease
+Person#7987 has died
+Person#7990 has died
+Person#8003 has died
+Person#8042 has Survived the disease
+Person#8044 has died
+Person#8067 has died
+Person#8081 has Survived the disease
+Person#8083 has died
+Person#8085 has died
+Person#8126 has died
+Person#8143 has died
+Person#8148 has died
+Person#8154 has Survived the disease
+Person#8166 has Survived the disease
+Person#8198 has Survived the disease
+Person#8201 has died
+Person#8205 has Survived the disease
+Person#8233 has Survived the disease
+Person#8235 has died
+Person#8238 has Survived the disease
+Person#8243 has died
+Person#8253 has Survived the disease
+person#8312 has infected person#7091
+Person#8312 has died
+Person#8317 has died
+Person#8328 has Survived the disease
+Person#8338 has died
+Person#8356 has died
+Person#8365 has died
+Person#8382 has died
+Person#8398 has Survived the disease
+Person#8402 has died
+Person#8416 has died
+Person#8422 has died
+Person#8432 has died
+Person#8438 has died
+Person#8456 has died
+Person#8463 has Survived the disease
+Person#8469 has died
+Person#8477 has died
+Person#8482 has Survived the disease
+Person#8537 has Survived the disease
+Person#8584 has Survived the disease
+Person#8590 has died
+Person#8658 has died
+Person#8680 has died
+Person#8728 has Survived the disease
+Person#8730 has died
+Person#8752 has Survived the disease
+Person#8769 has Survived the disease
+Person#8770 has died
+Person#8787 has Survived the disease
+Person#8788 has Survived the disease
+Person#8824 has died
+Person#8849 has died
+Person#8859 has Survived the disease
+Person#8862 has Survived the disease
+Person#8891 has died
+Person#8902 has died
+Person#8911 has Survived the disease
+Person#8951 has died
+Person#8953 has died
+Person#8986 has Survived the disease
+Person#8992 has died
+Person#9052 has died
+Person#9075 has died
+Person#9103 has died
+person#9142 has infected person#3923
+Person#9142 has died
+Person#9162 has died
+Person#9163 has Survived the disease
+Person#9172 has Survived the disease
+Person#9183 has died
+Person#9189 has died
+Person#9190 has died
+Person#9218 has Survived the disease
+Person#9220 has Survived the disease
+Person#9241 has died
+Person#9257 has died
+Person#9266 has died
+Person#9269 has died
+Person#9279 has died
+Person#9291 has died
+Person#9299 has Survived the disease
+Person#9317 has died
+Person#9335 has died
+Person#9340 has died
+Person#9348 has died
+Person#9355 has died
+Person#9367 has died
+Person#9370 has Survived the disease
+Person#9388 has died
+Person#9454 has died
+Person#9455 has Survived the disease
+Person#9460 has Survived the disease
+Person#9477 has died
+Person#9490 has died
+Person#9493 has died
+Person#9494 has died
+Person#9499 has Survived the disease
+Person#9519 has died
+Person#9548 has died
+Person#9551 has died
+Person#9617 has Survived the disease
+Person#9660 has died
+Person#9673 has died
+Person#9677 has died
+Person#9684 has Survived the disease
+Person#9691 has Survived the disease
+Person#9699 has died
+Person#9707 has Survived the disease
+Person#9731 has died
+Person#9765 has Survived the disease
+Person#9773 has died
+Person#9814 has died
+Person#9849 has died
+Person#9867 has died
+Person#9895 has died
+Person#9900 has died
+Person#9912 has Survived the disease
+Person#9929 has died
+Person#9933 has Survived the disease
+Person#9956 has died
+Person#9978 has died
+Person#9979 has died
+Person#9995 has Survived the disease
+Time Step #4 has ended.
+Next Time Step Initiating...
+Time Step #5 has started
+Person#6 has Survived the disease
+Person#9 has died
+Person#34 has died
+Person#43 has Survived the disease
+Person#63 has died
+Person#70 has died
+Person#86 has died
+Person#108 has died
+Person#143 has Survived the disease
+Person#180 has Survived the disease
+Person#203 has died
+Person#208 has died
+Person#211 has died
+Person#219 has died
+Person#224 has died
+Person#230 has Survived the disease
+Person#253 has Survived the disease
+Person#264 has died
+Person#265 has died
+Person#269 has Survived the disease
+Person#283 has died
+Person#295 has Survived the disease
+Person#310 has died
+Person#331 has died
+Person#337 has died
+Person#362 has died
+Person#364 has died
+Person#398 has Survived the disease
+Person#413 has died
+Person#495 has died
+Person#536 has died
+Person#551 has died
+Person#556 has died
+Person#567 has died
+Person#583 has died
+Person#609 has died
+Person#640 has died
+Person#672 has Survived the disease
+Person#703 has died
+Person#711 has Survived the disease
+Person#731 has died
+Person#755 has died
+Person#761 has died
+Person#764 has Survived the disease
+Person#786 has died
+Person#787 has Survived the disease
+Person#807 has Survived the disease
+Person#834 has died
+Person#849 has Survived the disease
+Person#864 has died
+Person#865 has died
+Person#873 has Survived the disease
+Person#910 has Survived the disease
+Person#933 has died
+Person#945 has died
+Person#947 has died
+Person#956 has died
+Person#958 has died
+Person#961 has Survived the disease
+Person#962 has died
+Person#979 has died
+Person#983 has died
+Person#987 has died
+Person#996 has Survived the disease
+Person#1008 has died
+Person#1058 has Survived the disease
+Person#1064 has died
+person#1079 has infected person#2611
+Person#1079 has died
+Person#1117 has died
+Person#1222 has died
+Person#1296 has died
+Person#1302 has died
+Person#1306 has Survived the disease
+Person#1322 has died
+Person#1356 has died
+Person#1357 has Survived the disease
+Person#1362 has Survived the disease
+person#1376 has infected person#4187
+Person#1376 has Survived the disease
+Person#1387 has died
+Person#1390 has died
+Person#1416 has died
+Person#1437 has Survived the disease
+Person#1463 has died
+Person#1502 has died
+Person#1504 has died
+Person#1541 has died
+Person#1558 has died
+Person#1574 has died
+Person#1589 has died
+Person#1629 has died
+person#1644 has infected person#2950
+Person#1644 has died
+Person#1668 has died
+Person#1670 has died
+Person#1693 has died
+Person#1700 has died
+Person#1715 has died
+Person#1726 has died
+Person#1733 has died
+Person#1754 has died
+Person#1784 has died
+Person#1790 has Survived the disease
+Person#1792 has died
+Person#1828 has died
+Person#1842 has died
+Person#1843 has died
+Person#1844 has died
+Person#1851 has Survived the disease
+Person#1854 has died
+Person#1945 has died
+Person#1948 has died
+Person#1953 has Survived the disease
+Person#1959 has died
+Person#1981 has Survived the disease
+Person#2015 has died
+Person#2037 has died
+Person#2062 has died
+Person#2082 has died
+Person#2101 has died
+Person#2135 has Survived the disease
+Person#2140 has died
+Person#2152 has died
+Person#2179 has Survived the disease
+Person#2185 has died
+Person#2199 has Survived the disease
+Person#2213 has died
+Person#2216 has died
+Person#2270 has died
+Person#2278 has died
+Person#2281 has died
+Person#2284 has died
+Person#2316 has died
+Person#2334 has Survived the disease
+Person#2338 has died
+Person#2379 has died
+Person#2497 has died
+Person#2500 has died
+Person#2503 has died
+Person#2560 has died
+Person#2565 has Survived the disease
+Person#2611 has Survived the disease
+Person#2630 has Survived the disease
+Person#2637 has died
+Person#2645 has died
+Person#2687 has Survived the disease
+Person#2734 has died
+Person#2737 has died
+Person#2738 has Survived the disease
+Person#2764 has died
+Person#2774 has died
+Person#2782 has died
+Person#2790 has Survived the disease
+Person#2808 has died
+Person#2837 has died
+Person#2848 has died
+Person#2882 has died
+Person#2896 has died
+Person#2907 has died
+Person#2921 has Survived the disease
+Person#2935 has died
+Person#2948 has died
+Person#2950 has died
+person#2961 has infected person#360
+Person#2961 has Survived the disease
+Person#2975 has died
+Person#2976 has died
+Person#2979 has died
+Person#2983 has died
+Person#2987 has died
+Person#3018 has died
+Person#3090 has died
+Person#3100 has died
+Person#3101 has Survived the disease
+Person#3105 has Survived the disease
+Person#3107 has died
+Person#3111 has died
+Person#3112 has Survived the disease
+Person#3208 has died
+Person#3218 has died
+Person#3225 has died
+Person#3245 has Survived the disease
+Person#3262 has died
+Person#3301 has died
+Person#3359 has died
+Person#3361 has Survived the disease
+Person#3364 has died
+person#3365 has infected person#106
+Person#3365 has died
+Person#3380 has died
+Person#3414 has died
+Person#3418 has died
+Person#3428 has died
+Person#3462 has died
+Person#3510 has Survived the disease
+Person#3535 has died
+Person#3580 has Survived the disease
+Person#3584 has Survived the disease
+Person#3594 has died
+Person#3598 has died
+Person#3599 has Survived the disease
+Person#3671 has Survived the disease
+Person#3678 has Survived the disease
+Person#3697 has Survived the disease
+Person#3719 has Survived the disease
+Person#3725 has died
+Person#3728 has died
+Person#3732 has died
+Person#3736 has Survived the disease
+Person#3747 has Survived the disease
+Person#3761 has Survived the disease
+Person#3785 has Survived the disease
+Person#3830 has Survived the disease
+Person#3831 has Survived the disease
+Person#3918 has died
+Person#3923 has Survived the disease
+Person#4084 has Survived the disease
+Person#4113 has Survived the disease
+Person#4160 has Survived the disease
+Person#4169 has died
+Person#4176 has died
+Person#4187 has died
+Person#4197 has Survived the disease
+Person#4202 has died
+Person#4214 has died
+Person#4250 has Survived the disease
+Person#4268 has died
+Person#4312 has died
+Person#4366 has died
+Person#4367 has died
+Person#4420 has died
+Person#4446 has died
+Person#4551 has died
+Person#4560 has died
+Person#4599 has Survived the disease
+Person#4603 has Survived the disease
+Person#4617 has died
+Person#4690 has died
+Person#4701 has died
+Person#4712 has died
+Person#4770 has died
+Person#4785 has Survived the disease
+Person#4807 has died
+Person#4821 has died
+Person#4855 has died
+Person#4856 has died
+Person#4912 has died
+Person#4968 has Survived the disease
+Person#4980 has died
+Person#5002 has died
+Person#5018 has died
+Person#5025 has died
+Person#5071 has died
+Person#5113 has Survived the disease
+Person#5169 has died
+Person#5205 has died
+Person#5225 has died
+Person#5250 has Survived the disease
+Person#5256 has Survived the disease
+Person#5282 has died
+Person#5290 has Survived the disease
+Person#5321 has died
+Person#5329 has died
+Person#5354 has died
+Person#5406 has died
+Person#5412 has Survived the disease
+Person#5414 has died
+Person#5443 has Survived the disease
+Person#5474 has died
+Person#5478 has died
+Person#5486 has died
+Person#5496 has died
+Person#5503 has died
+Person#5511 has died
+Person#5515 has Survived the disease
+Person#5520 has Survived the disease
+Person#5523 has died
+Person#5568 has Survived the disease
+Person#5587 has died
+Person#5590 has Survived the disease
+Person#5685 has died
+Person#5707 has Survived the disease
+Person#5726 has died
+Person#5740 has Survived the disease
+Person#5811 has died
+Person#5820 has died
+Person#5861 has died
+Person#5896 has died
+Person#5897 has died
+Person#5901 has died
+Person#5928 has died
+Person#5937 has died
+Person#5961 has died
+Person#5979 has died
+Person#6011 has Survived the disease
+Person#6036 has died
+Person#6052 has died
+Person#6087 has died
+Person#6089 has Survived the disease
+Person#6095 has Survived the disease
+Person#6118 has died
+Person#6160 has Survived the disease
+Person#6162 has died
+Person#6191 has Survived the disease
+Person#6208 has died
+Person#6211 has Survived the disease
+Person#6238 has Survived the disease
+Person#6256 has died
+Person#6265 has died
+Person#6322 has died
+Person#6362 has died
+Person#6374 has died
+Person#6379 has Survived the disease
+Person#6383 has died
+Person#6409 has died
+Person#6448 has died
+Person#6509 has died
+Person#6552 has Survived the disease
+Person#6553 has died
+Person#6555 has died
+Person#6569 has died
+Person#6604 has died
+Person#6622 has died
+Person#6635 has Survived the disease
+Person#6642 has died
+Person#6647 has died
+Person#6663 has died
+Person#6703 has died
+Person#6751 has died
+Person#6831 has died
+Person#6847 has died
+Person#6888 has died
+Person#6935 has Survived the disease
+Person#6951 has Survived the disease
+Person#6969 has died
+Person#6996 has Survived the disease
+Person#7033 has died
+Person#7045 has died
+Person#7047 has Survived the disease
+Person#7055 has died
+Person#7091 has died
+Person#7166 has died
+Person#7178 has died
+Person#7182 has died
+Person#7255 has died
+Person#7299 has Survived the disease
+Person#7301 has died
+Person#7338 has died
+Person#7411 has died
+Person#7470 has died
+Person#7477 has Survived the disease
+Person#7483 has died
+Person#7525 has died
+Person#7550 has died
+Person#7660 has Survived the disease
+Person#7704 has died
+Person#7706 has died
+Person#7724 has died
+Person#7731 has Survived the disease
+Person#7784 has died
+Person#7801 has died
+Person#7804 has died
+Person#7809 has Survived the disease
+Person#7827 has died
+Person#7858 has died
+Person#7923 has Survived the disease
+Person#7924 has died
+Person#7938 has died
+Person#7959 has Survived the disease
+Person#7967 has died
+Person#7987 has died
+Person#7990 has died
+Person#8003 has died
+Person#8044 has died
+Person#8067 has died
+Person#8083 has Survived the disease
+Person#8085 has died
+Person#8126 has Survived the disease
+Person#8143 has Survived the disease
+Person#8148 has died
+Person#8201 has Survived the disease
+Person#8235 has Survived the disease
+Person#8243 has Survived the disease
+Person#8312 has Survived the disease
+Person#8317 has Survived the disease
+Person#8338 has Survived the disease
+Person#8356 has died
+Person#8365 has died
+Person#8382 has died
+Person#8402 has died
+Person#8416 has died
+Person#8422 has Survived the disease
+Person#8432 has Survived the disease
+Person#8438 has Survived the disease
+Person#8456 has Survived the disease
+Person#8469 has died
+Person#8477 has Survived the disease
+Person#8590 has died
+Person#8658 has Survived the disease
+Person#8680 has died
+Person#8730 has died
+Person#8770 has died
+Person#8824 has died
+Person#8849 has died
+Person#8891 has died
+Person#8902 has died
+Person#8951 has died
+Person#8953 has died
+Person#8992 has Survived the disease
+Person#9052 has died
+Person#9075 has died
+Person#9103 has died
+Person#9142 has died
+Person#9162 has died
+Person#9183 has died
+Person#9189 has died
+Person#9190 has Survived the disease
+Person#9241 has Survived the disease
+Person#9257 has Survived the disease
+Person#9266 has died
+Person#9269 has died
+Person#9279 has died
+Person#9291 has died
+Person#9317 has died
+Person#9335 has Survived the disease
+Person#9340 has died
+Person#9348 has died
+Person#9355 has died
+Person#9367 has died
+Person#9388 has Survived the disease
+Person#9454 has died
+Person#9477 has died
+person#9490 has infected person#3906
+Person#9490 has Survived the disease
+Person#9493 has Survived the disease
+Person#9494 has died
+Person#9519 has Survived the disease
+Person#9548 has died
+Person#9551 has died
+Person#9660 has died
+Person#9673 has died
+Person#9677 has died
+Person#9699 has died
+Person#9731 has died
+Person#9773 has died
+Person#9814 has Survived the disease
+Person#9849 has died
+Person#9867 has died
+Person#9895 has died
+Person#9900 has died
+Person#9929 has died
+Person#9956 has Survived the disease
+Person#9978 has died
+Person#9979 has died
+Time Step #5 has ended.
+Next Time Step Initiating...
+Time Step #6 has started
+Person#9 has died
+Person#34 has Survived the disease
+Person#63 has died
+Person#70 has died
+Person#86 has died
+Person#106 has died
+Person#108 has died
+Person#203 has died
+Person#208 has Survived the disease
+Person#211 has died
+Person#219 has died
+Person#224 has died
+Person#264 has died
+Person#265 has died
+Person#283 has died
+Person#310 has died
+Person#331 has died
+Person#337 has died
+Person#360 has died
+Person#362 has died
+Person#364 has Survived the disease
+Person#413 has Survived the disease
+Person#495 has Survived the disease
+Person#536 has died
+Person#551 has died
+Person#556 has died
+Person#567 has Survived the disease
+Person#583 has Survived the disease
+Person#609 has died
+Person#640 has died
+Person#703 has Survived the disease
+Person#731 has Survived the disease
+Person#755 has Survived the disease
+Person#761 has Survived the disease
+Person#786 has Survived the disease
+Person#834 has Survived the disease
+Person#864 has died
+Person#865 has died
+Person#933 has died
+Person#945 has Survived the disease
+Person#947 has died
+Person#956 has Survived the disease
+Person#958 has Survived the disease
+Person#962 has died
+Person#979 has died
+Person#983 has died
+Person#987 has died
+Person#1008 has Survived the disease
+Person#1064 has died
+Person#1079 has died
+Person#1117 has died
+Person#1222 has died
+Person#1296 has died
+Person#1302 has died
+Person#1322 has died
+Person#1356 has Survived the disease
+Person#1387 has died
+Person#1390 has died
+Person#1416 has died
+Person#1463 has died
+Person#1502 has Survived the disease
+Person#1504 has died
+Person#1541 has died
+Person#1558 has died
+Person#1574 has died
+Person#1589 has died
+Person#1629 has died
+Person#1644 has died
+person#1668 has infected person#9108
+Person#1668 has Survived the disease
+Person#1670 has died
+Person#1693 has Survived the disease
+Person#1700 has died
+Person#1715 has died
+Person#1726 has Survived the disease
+Person#1733 has Survived the disease
+Person#1754 has died
+Person#1784 has died
+Person#1792 has died
+Person#1828 has died
+Person#1842 has died
+Person#1843 has died
+Person#1844 has died
+Person#1854 has Survived the disease
+Person#1945 has Survived the disease
+Person#1948 has died
+Person#1959 has died
+Person#2015 has died
+Person#2037 has died
+Person#2062 has died
+Person#2082 has died
+Person#2101 has died
+Person#2140 has Survived the disease
+Person#2152 has died
+Person#2185 has Survived the disease
+Person#2213 has died
+Person#2216 has died
+Person#2270 has Survived the disease
+Person#2278 has died
+Person#2281 has Survived the disease
+Person#2284 has died
+Person#2316 has died
+Person#2338 has died
+Person#2379 has Survived the disease
+Person#2497 has died
+Person#2500 has died
+Person#2503 has Survived the disease
+Person#2560 has Survived the disease
+Person#2637 has Survived the disease
+Person#2645 has Survived the disease
+Person#2734 has died
+Person#2737 has died
+Person#2764 has died
+Person#2774 has died
+Person#2782 has died
+Person#2808 has Survived the disease
+Person#2837 has died
+Person#2848 has died
+Person#2882 has died
+Person#2896 has died
+Person#2907 has died
+Person#2935 has Survived the disease
+Person#2948 has died
+Person#2950 has Survived the disease
+person#2975 has infected person#6645
+Person#2975 has died
+Person#2976 has died
+Person#2979 has died
+Person#2983 has died
+Person#2987 has Survived the disease
+Person#3018 has Survived the disease
+Person#3090 has Survived the disease
+Person#3100 has Survived the disease
+Person#3107 has Survived the disease
+person#3111 has infected person#8298
+Person#3111 has died
+Person#3208 has died
+Person#3218 has died
+Person#3225 has died
+Person#3262 has died
+Person#3301 has died
+Person#3359 has Survived the disease
+Person#3364 has died
+Person#3365 has died
+Person#3380 has died
+Person#3414 has died
+Person#3418 has died
+Person#3428 has died
+Person#3462 has died
+Person#3535 has Survived the disease
+Person#3594 has Survived the disease
+Person#3598 has died
+Person#3725 has died
+Person#3728 has died
+Person#3732 has died
+Person#3906 has Survived the disease
+Person#3918 has Survived the disease
+Person#4169 has Survived the disease
+Person#4176 has Survived the disease
+Person#4187 has died
+Person#4202 has Survived the disease
+Person#4214 has died
+Person#4268 has died
+Person#4312 has died
+Person#4366 has died
+Person#4367 has Survived the disease
+Person#4420 has Survived the disease
+Person#4446 has died
+Person#4551 has Survived the disease
+Person#4560 has died
+Person#4617 has died
+Person#4690 has Survived the disease
+Person#4701 has Survived the disease
+Person#4712 has died
+Person#4770 has Survived the disease
+Person#4807 has died
+Person#4821 has died
+Person#4855 has Survived the disease
+Person#4856 has died
+Person#4912 has Survived the disease
+Person#4980 has Survived the disease
+Person#5002 has died
+Person#5018 has Survived the disease
+Person#5025 has died
+Person#5071 has Survived the disease
+Person#5169 has Survived the disease
+Person#5205 has Survived the disease
+Person#5225 has died
+Person#5282 has died
+Person#5321 has died
+Person#5329 has died
+Person#5354 has Survived the disease
+Person#5406 has Survived the disease
+Person#5414 has died
+Person#5474 has died
+Person#5478 has died
+Person#5486 has died
+Person#5496 has Survived the disease
+Person#5503 has Survived the disease
+Person#5511 has Survived the disease
+Person#5523 has died
+Person#5587 has died
+Person#5685 has Survived the disease
+Person#5726 has died
+Person#5811 has Survived the disease
+Person#5820 has died
+Person#5861 has died
+Person#5896 has died
+Person#5897 has died
+Person#5901 has died
+Person#5928 has died
+Person#5937 has died
+Person#5961 has Survived the disease
+Person#5979 has died
+Person#6036 has died
+Person#6052 has died
+Person#6087 has died
+Person#6118 has Survived the disease
+Person#6162 has died
+Person#6208 has died
+Person#6256 has died
+Person#6265 has Survived the disease
+Person#6322 has died
+Person#6362 has died
+Person#6374 has died
+Person#6383 has died
+Person#6409 has Survived the disease
+Person#6448 has died
+Person#6509 has died
+Person#6553 has Survived the disease
+Person#6555 has died
+Person#6569 has died
+Person#6604 has Survived the disease
+Person#6622 has died
+Person#6642 has Survived the disease
+Person#6645 has died
+Person#6647 has died
+Person#6663 has died
+Person#6703 has died
+Person#6751 has died
+Person#6831 has died
+Person#6847 has died
+Person#6888 has died
+Person#6969 has Survived the disease
+Person#7033 has died
+Person#7045 has Survived the disease
+Person#7055 has died
+Person#7091 has died
+Person#7166 has died
+Person#7178 has Survived the disease
+Person#7182 has died
+Person#7255 has died
+Person#7301 has died
+Person#7338 has Survived the disease
+Person#7411 has died
+Person#7470 has Survived the disease
+Person#7483 has died
+Person#7525 has died
+Person#7550 has died
+Person#7704 has died
+Person#7706 has Survived the disease
+Person#7724 has Survived the disease
+Person#7784 has died
+Person#7801 has died
+Person#7804 has Survived the disease
+Person#7827 has Survived the disease
+Person#7858 has died
+Person#7924 has died
+Person#7938 has died
+Person#7967 has died
+Person#7987 has died
+Person#7990 has Survived the disease
+Person#8003 has died
+Person#8044 has died
+Person#8067 has Survived the disease
+Person#8085 has died
+Person#8148 has died
+Person#8298 has Survived the disease
+Person#8356 has died
+Person#8365 has died
+Person#8382 has died
+Person#8402 has died
+Person#8416 has died
+Person#8469 has died
+Person#8590 has died
+Person#8680 has Survived the disease
+Person#8730 has died
+Person#8770 has Survived the disease
+Person#8824 has died
+Person#8849 has Survived the disease
+Person#8891 has died
+Person#8902 has died
+Person#8951 has died
+Person#8953 has died
+Person#9052 has Survived the disease
+Person#9075 has died
+Person#9103 has died
+Person#9108 has died
+Person#9142 has died
+Person#9162 has died
+Person#9183 has died
+Person#9189 has died
+Person#9266 has died
+Person#9269 has Survived the disease
+Person#9279 has died
+Person#9291 has died
+Person#9317 has died
+Person#9340 has died
+Person#9348 has died
+Person#9355 has died
+Person#9367 has died
+Person#9454 has died
+Person#9477 has died
+Person#9494 has Survived the disease
+Person#9548 has died
+Person#9551 has died
+Person#9660 has died
+Person#9673 has died
+Person#9677 has died
+Person#9699 has Survived the disease
+Person#9731 has Survived the disease
+Person#9773 has Survived the disease
+Person#9849 has died
+Person#9867 has died
+Person#9895 has died
+Person#9900 has Survived the disease
+Person#9929 has died
+Person#9978 has died
+Person#9979 has died
+Time Step #6 has ended.
+Nobody is Infected. End of Simulation
